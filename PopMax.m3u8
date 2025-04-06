@@ -6,4 +6,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=7300000,AVERAGE-BANDWIDTH=7191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://defaultgen.com:3050/live/ChillieC86/2gbLT5mTdc/508170.ts
+http://defaultgen.com:3050/live/ChillieC86/2gbLT5mTdc/508170.m3u8
