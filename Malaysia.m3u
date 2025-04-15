@@ -1,3 +1,5 @@
+EXTM3U
+
 #EXTINF:-1 tvg-id="101" group-title="Pirate TV | Malaysia" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-name="TV1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (Astro Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
@@ -783,3 +785,14 @@ https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/
 
 #EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" group-title="Pirate TV | Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_Arena_Bola_2_%282024%29.png",804 Arena Bola 2 
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/ArenaBola2HD.m3u8
+
+#EXTINF:-1 tvg-id="251.astro" group-title="Pirate TV | Indian" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://get.perfecttv.net/logo/vinmeen.png" , 186 Vinmeen
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp.perfecttv.net/vinmeen.mpd
+
+#EXTINF:-1 tvg-id="241" ch-number="241" tvg-id="" group-title="Pirate TV | Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://get.perfecttv.net/logo/boxoffice.png" ,192 Box Office Thangathirai
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+https://linearjitp.perfecttv.net/Abo.mpd
