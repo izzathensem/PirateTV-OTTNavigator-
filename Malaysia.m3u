@@ -796,3 +796,9 @@ https://linearjitp.perfecttv.net/vinmeen.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 https://linearjitp.perfecttv.net/Abo.mpd
+
+#EXTINF:- group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608034734563662_89.png",Setanta Sports 1 Rus
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/SetantaSports1Ru.m3u8
+
+#EXTINF:- group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.balticom.lv/assets/images/channels/Setanta%20Sports%202.png",Setanta Sports 2 Rus
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/SetantaSports2Ru.m3u8
