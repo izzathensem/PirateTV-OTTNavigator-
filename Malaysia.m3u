@@ -802,3 +802,6 @@ https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/
 
 #EXTINF:- group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.balticom.lv/assets/images/channels/Setanta%20Sports%202.png",Setanta Sports 2 Rus
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/SetantaSports2Ru.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Tonton" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Drama_Sangat_2024_logo.svg", Drama Sangat
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/DramaSangat.m3u8
