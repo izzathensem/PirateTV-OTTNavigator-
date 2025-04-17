@@ -1708,3 +1708,51 @@ http://202.147.193.244/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 http://202.147.193.244/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.ball24hr.com/wp-content/uploads/2022/04/tpf1.jpg",Premier Football 1 HD
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/TrueSportsPremierLeague1.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.ball24hr.com/wp-content/uploads/2022/04/tpf2.jpg",Premier Football 2 HD
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/TrueSportsPremierLeague2.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premier-football-3-th.png",Premier Football 3 HD
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/TrueSportsPremierLeague3.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://truevisions.co.th/static/266b2054-e723-433b-8c9b-a7b52d71eca9.png",True Sports 5
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/TrueSports5.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", TRUE BEIN SPORT 1 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueBein1.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", TRUE BEIN SPORT 2 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueBein2.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", TRUE BEIN SPORT 3 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueBein3.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10", TRUE SPOTV  1 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueSpotv1.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10", TRUE SPOTV  2 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueSpotv2.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  1 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True1.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  2 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True2.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  3 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True3.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  4 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True4.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  5 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True5.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  7 TH
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True7.m3u8
+
+
+
