@@ -114,7 +114,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-name="PRIMA HD" group-title="Pirate TV | Malaysia" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima
-http://iptvtree.net:8080/romaniamedia/076cd2e932/157467
+https://link.zozotv.xyz:443/live/vip_3klp0es8/wg3piwEs/2677.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
