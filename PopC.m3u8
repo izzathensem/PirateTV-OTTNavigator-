@@ -6,4 +6,4 @@
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=7300000,AVERAGE-BANDWIDTH=7191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
 #EXTINF:-1,MBS JAPAN 
-https://fxcx.short.gy/MbsJapan.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
