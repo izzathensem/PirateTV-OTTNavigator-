@@ -1759,11 +1759,20 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
 https://cloud.hownetwork.xyz//yyy/d4a543ff57f0d80ba5a65299851af8b3/31/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | AKTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.popc-tv.com/assets/img/logos/channel-list/popc-3d.webp", PopC
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Taiwan" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.popc-tv.com/assets/img/logos/channel-list/popc-3d.webp", PopC
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/PopC.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | AKTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/ZYwG8ZSC/unnamed-1-1.png",CTV TAIWAN HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Taiwan" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/ZYwG8ZSC/unnamed-1-1.png",CTV TAIWAN HD
 http://108.181.20.197/livehttpplay?channel_id=20088
 
 #EXTINF:-1 group-title="Pirate TV | AKTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/VLLqrP2W/unnamed-3.jpg",TTV TAIWAN
 http://108.181.20.197/livehttpplay?channel_id=20076
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Taiwan" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png",Seti Sanlih E Television 
+http://108.181.20.197/livehttpplay?channel_id=20100
+
+#EXTINF:-1 tvg-id="FTVHD" tvg-name="FTVHD" group-title="Pirate TV | Taiwan" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://amcham.com.tw/wp-content/uploads/2020/12/ftv-news-logo.png",FTV HD
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBS ASIA" tvg-name="TVBS Asia" group-title="Pirate TV | Taiwan" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TVBS Asia 
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
