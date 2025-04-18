@@ -1788,3 +1788,9 @@ http://92.112.21.169:20002/smt3.2.1.php?id=viusix_twn
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | HongKong/Macau" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png", TVB PEARL 明珠台
 http://92.112.21.169:20002/smt3.2.1.php?id=pearl_twn
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | HongKong/Macau" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/908fQV3D/TVB.png",TVB Jade
+http://92.112.21.169:20002/smt3.2.1.php?id=jade_twn
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | HongKong/Macau" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/6/63/TVBPlus.webp/revision/latest?cb=20240501234348", TVB Plus
+http://92.112.21.169:20002/smt3.2.1.php?id=j2_twn
