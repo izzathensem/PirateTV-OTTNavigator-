@@ -2417,3 +2417,6 @@ https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/chunklist.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQGHZRlbWyl-wg/company-logo_200_200/company-logo_200_200/0/1712209128979?e=2147483647&v=beta&t=p_06_8kIY2Uh0cWApRoy4Tlk3SPy7S100P6_-B4IUIs",Thanthi One
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/12/Mazhavil_HD_Logo-1200x900.png",Mazhavil Manorama HD
+https://cdn1.pishow.tv/live/200/master.m3u8
