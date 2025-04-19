@@ -2231,3 +2231,189 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png",CBC SPORTS
 http://rhsbjv7k.tvclub.xyz/iptv/MVRVAWFDC4M2C3/2193/index.m3u8
+
+#EXTINF:-1 tvg-id="617b37b361e0fd0008cfd8c5" tvg-chno="55" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png",Pluto TV Reaction
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" tvg-chno="66" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png",Pluto TV Fantastic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+ 
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name=""  group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/UmuJkVB.png",Pluto TV Spotlight
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="5c6dc88fcd232425a6e0f06e" tvg-chno="76" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png",Pluto TV Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5f4d863b98b41000076cd061" tvg-chno="90" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png",Pluto TV Staff Picks
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5b4fc274694c027be6ed3eea" tvg-chno="151" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png",Pluto TV Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5ad8d3a31b95267e225e4e09" tvg-chno="50" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png",Pluto TV Movies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/OVF9UEh.png",Pluto TV Action
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://imgur.com/MTVrbd5.png",Pluto TV Comedy
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.ibb.co/NTq66gD/OIP-4-removebg-preview.png",Pluto TV Horror
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.ibb.co/pjnDgzZ/R-removebg-preview.png",Pluto TV Thrillers
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/featuredImage.jpg",00s Replay
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
+
+#EXTINF:-1 tvg-id="70sCinema.us" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/mgXeEE4.png",70s Cinema
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
+
+#EXTINF:-1 tvg-id="80sRewind.us" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/nkEeYfI.png",80s Rewind
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0
+
+#EXTINF:-1 tvg-id="90sThrowback.us" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/KoGko6M.png",90s Throwback
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/bott/content/channels/tvguide/1708093160719.png",Polimer TV
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c637b921-8577-4487-a3c8-9469cbd5dd4e.png", Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f85" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4087eb73-46cd-4f54-a2a8-38f73caba875.png", Goldmines Bollywood
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f88" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/80cda149-7530-47bb-83c7-7a1923d9bcc1.png", Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png",DD NATIONAL 
+https://cdn-1.pishow.tv/live/11/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dd_Bangla.PNG",DD Bangla 
+https://cdn-4.pishow.tv/live/37/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/DD_Yadagiri_logo.png",DD Yadagiri Telangana
+https://cdn-1.pishow.tv/live/21/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/d1MZ52Ns/DDCG-Thumbnail.png",DD Chattisgarh 
+https://cdn-1.pishow.tv/live/15/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/J0FQ4D4G/Screenshot-2025-01-15-181620.jpg",DD Uttarakhand
+https://cdn-1.pishow.tv/live/17/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DD_India_logo.jpg/640px-DD_India_logo.jpg",DD India
+https://cdn-1.pishow.tv/live/23/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Dd-madhya-pradesh_1-in.png/revision/latest?cb=20210923110004",DD Madhya Pradesh
+https://cdn-1.pishow.tv/live/31/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png",DD RAJASTHAN JAIPUR 
+https://cdn-1.pishow.tv/live/34/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/DD_UP.jpeg/revision/latest?cb=20191222114542",DD Uttar Pradesh 
+https://cdn-1.pishow.tv/live/36/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"tvg-logo="https://i.postimg.cc/zfBhcDkB/images-2.png",DD Tamil HD
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/10/16/Best%2Bof%2BIndian%2Bcinema%2Bon%2BDD%2BBharati%2Bevery%2BSaturday.png?itok=g6dEIP8X",DD Bharati
+https://cdn-1.pishow.tv/live/10/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/DD-Kishan_Logo.png/revision/latest/scale-to-width-down/1200?cb=20160805131037",DD Kisan
+https://cdn-6.pishow.tv/live/9/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/DDPunjabiLogo.jpg",DD Punjabi 
+https://cdn-4.pishow.tv/live/24/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/pXS7cyvG/channels4-profile-1.jpg",DD Sahyadri
+https://cdn-3.pishow.tv/live/30/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/DD-Chandana-Logo.jpg",DD CHANDANA Karnataka 
+https://cdn-3.pishow.tv/live/28/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DD_Malayalam_2023_logo.png",DD Malayalam
+https://cdn-3.pishow.tv/live/27/master.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://apiexcellent.com/images/television/product/dd-podhigai-television10134.webp",DD Podhigai TV
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/1324a5ee-c108-423f-ae78-c83b2fd31065/2.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/HUL4aF6.png",DD Nagaland TV
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/4437588d-6c41-4a61-91ca-33a6900617a6/2.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/DDGirnarLogo.jpg/220px-DDGirnarLogo.jpg",DD Girnar
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/4a7a0c8a-c58d-43d6-baff-13492d67bf3e/2.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/DD_Odia_Logo.jpg/revision/latest?cb=20240320092429",DD Odia
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/245d9a9e-4820-43b1-af33-4a3017d09f52/2.m3u8
+
+#EXTINF:-1 tvg-id="6577c38b31b2fee545230f82" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/DD_Assam_logo.jpeg",DD Assam
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2192ea99-acab-475f-9761-615270547cd8/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/cFNw4Af.png",MNTV INDIA 
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="MarutamMusic.in" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.ibb.co/NynvtQm/1-210414213-U60-L.jpg",MNTV Music 
+https://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 tvg-id="MoonTV.in" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/3l25EZI.png",Moon TV 
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/12/Mazhavil_HD_Logo-1200x900.png",Mazhavil Manorama HD (A)
+https://cdn-7.pishow.tv/live/1129/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Kaumudy.png",Kaumudy TV (YuppTV Feed)
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Flowers-TV-USA.jpg",Flowers TV HD USA (YuppTV Feed)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Flowers-TV-USA.jpg",Flowers TV HD USA (YuppTV Feed)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KalaignarMurasu" tvg-name="KalaignarMurasu" group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/sDZzFdBr/download-85.png",Kalaignar Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/VvKPBG3g/download-78.jpg",Kalaignar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/1zRm6Fny/download-79.jpg",Siripoli TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/240122/siripoli/playlist.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/prDWtJ5M/download-80.jpg",isaiaruvi
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/140622/isaiaruvi/playlist.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/sXx1t130/download-77.jpg", Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://pbs.twimg.com/profile_images/743422000903790592/k_KIHXDs_400x400.jpg",Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/512X512.png",BBO CLASSIC 
+https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/main.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png",BBO HD
+https://ssailive.vgcdn.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6e0af97-b4c7-443e-a152-a8caa844c256/main.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://neeplay.com/wp-content/uploads/2024/12/FIRETAM-185x278.webp",Tamil TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/firetamil/playlist.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/08/pulari.jpg",Polari TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nakshatra-digital-tv/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/g2W7xvK0/images.png",DD TAMIL HD
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan TV
+https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Seithigal.jpeg/revision/latest?cb=20191224114931", Seithigal TV
+https://livegeoroueu.akamaized.net/120723/smil:seithagal.smil/playlist.m3u8?hdnts=st=1734268596~exp=1734272196~acl=!*/120723/smil:seithagal.smil/*!yuppTVCom_5_24049354_c24505a291c14922_US_45.61.146.16~data=yuppTVCom_5_24049354_c24505a291c14922_US_45.61.146.16~hmac=09bc33efd8d94af21d65a22fc38596ffe6c6ed9e479919cbe3f4ea61ee3493b7&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=446&ads.channel_name=SeithigalTV&ads.network_name=yupptv&ads.user=1
+
+#EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/VASANTH-TV-LOGO-FINAL-1.png/revision/latest/scale-to-width-down/284?cb=20230202200343", Vasanth TV
+https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/chunklist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQGHZRlbWyl-wg/company-logo_200_200/company-logo_200_200/0/1712209128979?e=2147483647&v=beta&t=p_06_8kIY2Uh0cWApRoy4Tlk3SPy7S100P6_-B4IUIs",Thanthi One
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
