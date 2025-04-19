@@ -1824,3 +1824,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/MVRVAWFDC4M2C3/2193/index.m3u8
 
 #EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",Man United FC TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/63tTsMSh/images-8.png",Colors Rishtey IN
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/ColorsRishteyIN.m3u8
