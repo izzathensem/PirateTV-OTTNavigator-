@@ -1794,3 +1794,33 @@ http://92.112.21.169:20002/smt3.2.1.php?id=jade_twn
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | HongKong/Macau" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/6/63/TVBPlus.webp/revision/latest?cb=20240501234348", TVB Plus
 http://92.112.21.169:20002/smt3.2.1.php?id=j2_twn
+
+#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6tz1pp1649341425.png",Nova Sports 1
+http://213.215.119.236:88/Nova_sport_1/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/Mp7MkG1J/images-6.png",Nova Sports 2
+http://213.215.119.236:88/Nova_sport_2/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tcj7gr1649341445.png",Nova Sports 3
+http://213.215.119.236:88/Nova_sport_3/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/QdnjBGQn/images-7.png", Nova Sports 4
+http://213.215.119.236:88/Nova_sport_4/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/kXbHNrPp/Nova-Sport-5.jpg", Nova Sports 5
+http://213.215.119.236:88/Nova_sport_5/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.fotelka.tv/image/cache/catalog/Sport/arena-sport-240x234.jpg", Arena Sports 1
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp",Real Madrid TV English 
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp",Real Madrid TV ESP
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png",CBC SPORTS
+http://rhsbjv7k.tvclub.xyz/iptv/MVRVAWFDC4M2C3/2193/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",Man United FC TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
