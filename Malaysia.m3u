@@ -2420,3 +2420,150 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 
 #EXTINF:-1 tvg-id="" group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/12/Mazhavil_HD_Logo-1200x900.png",Mazhavil Manorama HD
 https://cdn1.pishow.tv/live/200/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg",AMC_NETWORK
+http://143.244.60.97/AMC_NETWORK/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/2560px-C-SPAN_Logo_%282019%29.svg.png", C-SPAN 
+http://84.17.40.25/C-SPAN/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/300px-BBC_America_logo_2021.svg.png",BBC AMERICA 
+http://143.244.60.30/BBC_AMERICA/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://perfecttv.net/logo/axn.png", AXN (Spanish+English) Latino American 
+https://streamer1.nexgen.bz/AXN/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg",COMEDY CENTRAL EAST
+https://fl3.moveonjoy.com/Comedy_Central/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel East 
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/mZ74fPXZ/download-70.png", Disney Junior East 
+https://fl5.moveonjoy.com/DISNEY_JR/manifest.mpd
+
+#EXTINF:-1 tvg-id="DisneyXDEast.us" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-logo="https://i.postimg.cc/63s4gzQd/download-51.png", Disney XD East 
+https://fl5.moveonjoy.com/DISNEY_XD/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1280px-Hallmark_Channel.svg.png",HALLMARK CHANNEL EAST 
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/d/d4/Multiverse_-_Hallmark_Drama.png/revision/latest?cb=20180902201216",HALLMARK DRAMA EAST 
+https://fl2.moveonjoy.com/HALLMARK_DRAMA/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | SlingTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/440px-HBO_logo.svg.png",HBO East 
+http://212.102.60.231/HBO/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | SlingTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEYr2BIO2UUJkwlY7NeVI02H-e_HtbitSFg&s",HBO 2 East 
+http://212.102.60.231/HBO_2/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" group-title="Pirate TV | SlingTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9XLpiOR9Ehn8TsJ8tYYqwvoteeNgTxzRTbA&usqp=CAU",HBO Family East (A)
+http://212.102.60.231/HBO_FAMILY/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | SlingTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGNHqJtBJtCZlMYfzGe5ptbrYZ6hMKclfUQ&s",Cinemax East 
+http://212.102.60.231/CINEMAX_EAST/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network East 
+http://fl2.moveonjoy.com/CARTOON_NETWORK/manifest.mpd
+
+#EXTINF:-1 tvg-id="NicktoonsEast.us" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png",NickToons East
+http://143.244.60.30/NICKTOONS/manifest.mpd
+
+#EXTINF:-1 tvg-id="NickelodeonEast.us" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/E84jnP8.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sling_TV_logo.svg/640px-Sling_TV_logo.svg.png",Nickelodeon East (A)
+http://143.244.60.30/NICKELODEON/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | SlingTV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/CBS_Sports_Network_2021.svg",CBS SPORTS NETWORK
+https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/manifest.mpd
+
+#EXTINF:-1 group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/kGq0XBy6/images-4.png",Paramount Network East 
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/manifest.mpd
+
+#EXTINF:-1 group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/440px-Bravo_2017_logo.svg.png",Bravo TV East
+https://fl2.moveonjoy.com/BRAVO/manifest.mpd
+
+#EXTINF:-1 group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/1600px-Freeform_2022.svg.png",Freeform East
+http://212.102.60.231/FREE_FORM/manifest.mpd
+
+#EXTINF:-1 group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png",E! Television
+http://212.102.60.231/E_ENTERTAINMENT_TELEVISION/manifest.mpd
+
+#EXTINF:-1 tvg-id="FXEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX East
+http://84.17.40.25/FX/manifest.mpd
+
+#EXTINF:-1 tvg-id="LifetimeEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/07/lifetime.png",Lifetime East
+http://rhsbjv7k.tvclub.xyz/iptv/D4UYB5VRQ84H9K/30122/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicEast.us" group-title="Pirate TV | SlingTV:Knowledge" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://account.nationalgeographic.com/media/national-geographic/media/National-Geographic-Logo.png",National Geographic East
+http://fl2.moveonjoy.com/National_Geographic/mono.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWildEast.us" group-title="Pirate TV | SlingTV:Knowledge" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png",National Geographic Wild East
+http://fl2.moveonjoy.com/Nat_Geo_Wild/mono.m3u8
+
+#EXTINF:-1 tvg-id="USANetworkEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA Network East 
+http://extraott.com:900/live/3162523972/3791698850/13612.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
+http://fl1.moveonjoy.com/LOVE_NATURE/manifest.mpd
+
+#EXTINF:-1 tvg-id="SundanceTVEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/sundance-tv.jpg",Sundance TV East
+http://fl2.moveonjoy.com/SUNDANCE/mono.m3u8
+
+#EXTINF:-1 tvg-id="SyfyEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Syfy_Universal.svg/1200px-Syfy_Universal.svg.png",Syfy East
+http://212.102.60.231/SYFY/manifest.mpd
+
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" group-title="Pirate TV | SlingTV:Knowledge" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/07/smithsonian-channel.png",Smithsonian Channel East
+http://212.102.60.231/SMITHSONIAN_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="OxygenEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/05/oxygen.png",Oxygen East
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+
+#EXTINF:-1 tvg-id="WNBCDT1.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png",NBC(WNBC-DT1) New York
+http://fl1.moveonjoy.com/NBC_EAST/manifest.mpd
+
+#EXTINF:-1 tvg-id="WNYWDT1.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png", FOX (WNYW-DT1) NEW YORK 
+http://fl1.moveonjoy.com/FOX_EAST/manifest.mpd
+
+#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70436_h15_ab.png",Me TV (KSAT-DT2) San Antonio,Texas 
+http://84.17.40.25/ME_TV/manifest.mpd
+
+#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC East
+http://fl1.moveonjoy.com/ABC_EAST/manifest.mpd
+
+#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WGN_CW_logo_2024.svg/1828px-WGN_CW_logo_2024.svg.png",THE CW WGN 9 
+http://143.244.60.30/WGN/manifest.mpd
+
+#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://wwwimage-tve.cbsstatic.com/base/files/seo/cbs_seo_1200x627_1.jpg",CBS WSBK (Boston)
+http://143.244.60.30/CBSEAST/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Japanese Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
+http://vthanh.utako.moe/AT-X/index.m3u8
+
+#EXTINF:-1 tvg-id="space_shower" group-title="Pirate TV | Japanese Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV-test
+http://luong.utako.moe/spaceshower/index.m3u8
+
+#EXTINF:-1 tvg-id="tokyo_mx" group-title="Pirate TV | Japanese Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | SlingTV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png", ESPN East
+http://41.205.93.154/ESPN/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | SlingTV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",FOX SPORTS 2 
+http://rhsbjv7k.tvclub.xyz/iptv/D4UYB5VRQ84H9K/7323/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | SlingTV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FOX SPORTS 1
+http://212.102.60.10/FOX_Sports_1/manifest.mpd
+
+#EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" tvg-name="TeenNick" group-title="Pirate TV | SlingTV:Kids" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/StackTV_logo.png/400px-StackTV_logo.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png",TeenNick East
+https://raw.githubusercontent.com/Cutsiffa/Kid/main/Tenic.m3u8
+
+#EXTINF:-0 group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang East
+https://raw.githubusercontent.com/Cutsiffa/Kid/refs/heads/main/Boome.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJuniorEast.us" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/mZ74fPXZ/download-70.png", Disney Junior East 
+http://143.244.60.97/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXDEast.us" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-logo="https://i.postimg.cc/63s4gzQd/download-51.png", Disney XD East 
+http://212.102.60.231/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="disneychanneleast.us" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel East 
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
