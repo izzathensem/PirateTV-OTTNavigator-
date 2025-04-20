@@ -2560,13 +2560,13 @@ https://raw.githubusercontent.com/Cutsiffa/Kid/main/Tenic.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Kid/refs/heads/main/Boome.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/mZ74fPXZ/download-70.png", Disney Junior East 
-http://143.244.60.97/DISNEY_JR/index.m3u8
+http://143.244.60.97/DISNEY_JR/manifest.mpd
 
 #EXTINF:-1 tvg-id="DisneyXDEast.us" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-logo="https://i.postimg.cc/63s4gzQd/download-51.png", Disney XD East 
-http://212.102.60.231/DISNEY_XD/index.m3u8
+http://212.102.60.231/DISNEY_XD/manifest.mpd
 
 #EXTINF:-1 tvg-id="disneychanneleast.us" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel East 
-http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
+http://212.102.60.231/DISNEY_CHANNEL/manifest.mpd
 
 #EXTINF:-1 group-title="Pirate TV | Sling TV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://variety.com/wp-content/uploads/2014/08/wwe-logo.jpg?w=960&h=539&crop=1", WWE NETWORK EAST 
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/WWENetworkEast.m3u8
