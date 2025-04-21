@@ -2615,3 +2615,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-11/2504113074000.jpg",Shemaroo Filmigana
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | UbLive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+http://cookies.elementfx.com/ublive/ublive.php?id=1466
+
+#EXTINF:-1 tvg-id="116.astro" group-title="Pirate TV | UbLive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png",Colors HD
+http://cookies.elementfx.com/ublive/ublive.php?id=1468
