@@ -2594,3 +2594,24 @@ http://brightmeltech.in/ramyatv/ramyatv.m3u8
 
 #EXTINF:-1 group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/Sxrfcvy5/channels4-profile-2.jpg",Raja TV
 http://brightmeltech.in/rajatv/rajatv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/6287f605-e124-486d-8aac-bd1765c51d48.png", B4U Movies India
+https://cdn-2.pishow.tv/live/419/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/2a176bdb-7574-40c9-b5a3-e847c4aecb8c.png", B4U Music
+https://cdn-2.pishow.tv/live/415/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/zoom_tv.jpg", Zoom IN (Airtel TV Feed)
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/ZoomIndia.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png/revision/latest?cb=20240318192049", Mastii HD (A)
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/MastiiHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png/revision/latest?cb=20240318192049", Mastii HD (B)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood/630e1f94dde715ef7c000076/large_16_9_webp_1661880865.webp",Shemaroo Bollywood 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-11/2504113074000.jpg",Shemaroo Filmigana
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
