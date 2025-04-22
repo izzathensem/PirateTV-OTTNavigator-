@@ -3048,5 +3048,23 @@ https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Zee5" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png",&Prive HD
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/AndPriveHD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Zee5" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%26flix_HD_Leap_forth.svg",&Flix HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Zee5" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%26flix_HD_Leap_forth.svg/640px-%26flix_HD_Leap_forth.svg.png",&Flix HD
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/AndFlixHD.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/VsBRk971/download-2023-06-02-T004905-154.png", FOX KIDS 
+https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w345953685.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/440px-Pop_UK_TV_Logo_%282015%29.svg.png",Pop UK
+https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/SNC2C2tR/download-2023-03-17-T214110-590.jpg", Toonami AfterMath East (Cartoon Network+Toonami)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/SNC2C2tR/download-2023-03-17-T214110-590.jpg", Toonami AfterMath Pasific (Cartoon Network+Boomerang)
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/TheJetixLogo.svg/500px-TheJetixLogo.svg.png", Jetix Channel (English)
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/JetixEng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/6/60/Pop-max-logo.png/revision/latest/scale-to-width-down/250?cb=20191018205401", Pop Max UK
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/PopMaxSD.m3u8
