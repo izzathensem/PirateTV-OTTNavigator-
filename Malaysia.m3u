@@ -2616,11 +2616,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-11/2504113074000.jpg",Shemaroo Filmigana
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | UbLive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
-http://cookies.elementfx.com/ublive/ublive.php?id=1466
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Zee5" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+http://38.96.178.201:80/live/ZEETV/index.m3u8
 
-#EXTINF:-1 tvg-id="116.astro" group-title="Pirate TV | UbLive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png",Colors HD
-http://cookies.elementfx.com/ublive/ublive.php?id=1468
+#EXTINF:-1 tvg-id="116.astro" group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png",Colors HD
+http://watchindia.net:8880/live/40972/04523/801.m3u8
 
 #EXTINF:-1 tvg-id="tvN" group-title="Pirate TV | Korean" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/2UfQSCF.png",tvN
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
