@@ -3050,3 +3050,9 @@ https://usher.ttvnw.net/api/channel/hls/padang_tv.m3u8?acmb=eyJBcHBWZXJzaW9uIjoi
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | TV Daerah" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://kaltaratv.id/wp-content/uploads/2023/11/logo-Kaltaratv.png",Kaltara TV
 https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Zee5" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png",&Prive HD
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/AndPriveHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Zee5" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%26flix_HD_Leap_forth.svg",&Flix HD
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/AndFlixHD.m3u8
