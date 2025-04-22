@@ -2810,12 +2810,6 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Zee5" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg",Zee Alwan (Arabic Version)
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Zee5" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY2QpNVKljZDAXM7jYdmc2C-ZHNGxs2I_DLopdlhc&s",&Prive 
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Zee5" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTdmAKuPV3ghwNm14cC2r-itQkcLdf2nCWHlSd89I&s",&Flix 
-http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=12643&deviceMac=00:1A:79:03:13:DE
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
