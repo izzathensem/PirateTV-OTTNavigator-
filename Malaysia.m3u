@@ -3065,7 +3065,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/TheJetixLogo.svg/500px-TheJetixLogo.svg.png", Jetix Channel (English)
-http://3.team.ga:80/ch2332/mono.m3u8?token=ruzan04.ZZJBKQ-1sDDJvq65eo1q2oTPPqPP0d1A7A9W3Q0jVphk6r3kNwqtIc93-HV8gM8y
+https://fxcx.short.gy/JetixEnglish.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/6/60/Pop-max-logo.png/revision/latest/scale-to-width-down/250?cb=20191018205401", Pop Max UK
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/PopMaxSD.m3u8
