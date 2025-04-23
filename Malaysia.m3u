@@ -3069,3 +3069,24 @@ https://fxcx.short.gy/JetixEnglish.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/6/60/Pop-max-logo.png/revision/latest/scale-to-width-down/250?cb=20191018205401", Pop Max UK
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/PopMaxSD.m3u8
+
+#EXTINF:- group-title="Pirate TV | Singapore" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png",Astro Sensasi (Starhub Feed)
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/AstroHubSensasi.m3u8
+
+#EXTINF:- group-title="Pirate TV | Singapore" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Astro_Warna_%28Dec_2024%29.png",Astro Warna (Singapore Feed)
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/AstroHubWarna.m3u8
+
+#EXTINF:- group-title="Pirate TV | Singapore" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png",Hub Sports 1 
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:D2:29:93&stream=280827&extension=ts&play_token=TmhL8M4b3q
+
+#EXTINF:- group-title="Pirate TV | Singapore" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png", Hub Sports 2
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:D2:29:93&stream=280828&extension=ts&play_token=chTjDgnj35
+
+#EXTINF:- group-title="Pirate TV | Singapore" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://icdb.tv/images/4ffe8538c19ca74757b70a074cb44155.jpg", Hub Sports 3
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:D2:29:93&stream=280829&extension=ts&play_token=wz7akohh3h
+
+#EXTINF:- group-title="Pirate TV | Singapore" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/cvqJupU.png", Hub Sports 4
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:D2:29:93&stream=280830&extension=ts&play_token=S2Tqfyhi5a
+
+#EXTINF:- group-title="Pirate TV | Singapore" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9b/HUB_Sports_5.png/revision/latest/scale-to-width-down/250?cb=20240218063404&path-prefix=vi", Hub Sports 5 
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:D2:29:93&stream=280831&extension=ts&play_token=rVE1zC3jFy
