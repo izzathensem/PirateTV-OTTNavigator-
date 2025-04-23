@@ -3090,3 +3090,42 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:D2:29:93&stream=280830&extens
 
 #EXTINF:- group-title="Pirate TV | Singapore" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9b/HUB_Sports_5.png/revision/latest/scale-to-width-down/250?cb=20240218063404&path-prefix=vi", Hub Sports 5 
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:D2:29:93&stream=280831&extension=ts&play_token=rVE1zC3jFy
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/BRTV%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85_logo.png/revision/latest?cb=20250328114917&path-prefix=vi",Beijing TV 4K
+http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Qinghai_Television.png",Qinghai Satellite TV
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=c86477701744495611
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shaanxi-satellite-tv-cn.png",Shaanxi Satellite TV
+http://stream.snrtv.com/sxbc-star-gxIS59.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sansha_tv_cn.png",Sansha Satellite TV
+https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=7f3def101744486905
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/lztvggpd.jpg",Luzhou Local Satellite TV
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/13MzKM1n/Screenshot-2025-04-13-154346.jpg",Luojiang Satellite TV
+https://pull.luojiangrongmei.com/ljds/ljtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://img1.od-cdn.com/ImageType-400/8437-1/91D/AE8/1F/%7B91DAE81F-5B07-4D3A-9014-CBB40C39D077%7DImg400.jpg",Wujiang Satellite TV
+https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Dragon_TV_2015_Stacked_logo.png/revision/latest/scale-to-width-down/250?cb=20241209140521",Dragon TV
+http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
+http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",Shenzen TV
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/800px-Jiangsu_Broadcasting_Corporation.svg.png",Jiangsu TV
+http://iptv.huuc.edu.cn/hls/jshd.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",Hunan TV
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",Shenzen TV
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
