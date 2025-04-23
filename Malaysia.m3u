@@ -3129,3 +3129,18 @@ http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 
 #EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",Shenzen TV
 http://iptv.huuc.edu.cn/hls/szhd.m3u8
+
+#EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/BRTV%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85_logo.png/revision/latest?cb=20250328114917&path-prefix=vi", Beijing Satelite TV 4K
+http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
+
+#EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/BRTV%E6%96%87%E8%89%BA.png/revision/latest?cb=20240209114531&path-prefix=vi", Beijing Satelite TV 2
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1744693210&sign=303d87bd599383b46e5f1d07354d407e
+
+#EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/kaku.jpg", Beijing Kaku TV
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1744491556&sign=ea960499da2d9743420c66d216aa877a
+
+#EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/gzxwpd.jpg", Guangzhou Satellite TV
+http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
+
+#EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg", Starlight Film and Television 
+https://fxcx.short.gy/tvgQAa
