@@ -3116,19 +3116,19 @@ https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
 http://1.24.190.122:1080/hls/66/index.m3u8
 
 #EXTINF:-1 group-title="Pirate TV | Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
-http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+http://1.24.190.122:1080/hls/85/index.m3u8
 
 #EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",Shenzen TV
-http://iptv.huuc.edu.cn/hls/szhd.m3u8
+http://1.24.190.122:1080/hls/76/index.m3u8
 
 #EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/800px-Jiangsu_Broadcasting_Corporation.svg.png",Jiangsu TV
-http://iptv.huuc.edu.cn/hls/jshd.m3u8
+http://1.24.190.122:1080/hls/61/index.m3u8
 
 #EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",Hunan TV
-http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+http://1.24.190.122:1080/hls/60/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",Shenzen TV
-http://iptv.huuc.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg",Zhejiang TV
+http://1.24.190.122:1080/hls/63/index.m3u8
 
 #EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/BRTV%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85_logo.png/revision/latest?cb=20250328114917&path-prefix=vi", Beijing Satelite TV 4K
 http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
