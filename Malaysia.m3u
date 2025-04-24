@@ -3371,3 +3371,47 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745524677/ei/Z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
 https://cloud.hownetwork.xyz//yyy/I1U-ITcSHi8lfBotLR1kaHBNZDkgGxMtHQkoeXsAMGomGns/32/480.m3u8
 
+#EXTINF:-1 tvg-id="DubaiOne.ae" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/Dj16oKL.png",Dubai One (1080p)
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png/900", Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLOa4vtcn2Q30IKYU2csQUUnLoSF1on2CJpydscy5yQ&s",Watch Mojo TV
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F619ac4cb-f585-4818-a7ef-342ec3c20544%2FMIRAMAX_HORIZONTAL_DEFAULT_ARTWORK_-_Gabe_Evans.jpg", Miramax Movies Channel
+https://linear-798.frequency.stream/mt/studio/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20240423T033422SQUARE.png&h=250",Sony One Action Hits 1
+https://linear-801.frequency.stream/mt/studio/801/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20240423T033422SQUARE.png&h=250",Sony One Action Hits 2
+https://linear-800.frequency.stream/mt/studio/800/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20240423T033424SQUARE.png&h=250",Sony One Comedy Hits 1
+https://linear-802.frequency.stream/mt/studio/802/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20240423T033424SQUARE.png&h=250",Sony One Comedy Hits 2
+https://linear-803.frequency.stream/mt/studio/803/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20240423T033429SQUARE.png&h=250",Sony One Faves 1
+https://linear-807.frequency.stream/mt/studio/807/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20240423T033429SQUARE.png&h=250",Sony One Faves 2
+https://linear-806.frequency.stream/mt/studio/806/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000061H_20240423T033431SQUARE.png&h=250",Sony One Thriller TV 1
+https://linear-809.frequency.stream/mt/studio/809/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000061H_20240423T033431SQUARE.png&h=250",Sony One Thriller TV 2
+https://linear-808.frequency.stream/mt/studio/808/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ionMystery.png",ION Mystery 🇺🇸
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.ibb.co.com/LnJSkjh/ionplus.png",ION Plus 🇺🇸
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.ibb.co.com/KVh2kfQ/ion.png",ION 🇺🇸
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
