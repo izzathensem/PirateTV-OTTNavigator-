@@ -3273,3 +3273,92 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 #EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/zing_live.jpg",Zing TV
 http://38.96.178.201:80/live/Zing/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Taiwan" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/VLLqrP2W/unnamed-3.jpg",TTV TAIWAN
+http://108.181.20.197/livehttpplay?channel_id=20076
+
+#EXTINF:-1 group-title="Pirate TV | Taiwan" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GTV_Variety_logo_2018.png/960px-GTV_Variety_logo_2018.png",GTV VARIETY SHOW
+http://108.181.20.197/livehttpplay?channel_id=20068
+
+#EXTINF:-1 group-title="Pirate TV | Taiwan" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="",TVBS ENTERTAINMENT HD
+http://108.181.20.197/livehttpplay?channel_id=20105
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Astro First 2024" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/Wbfk6ZSn/MV5-BZWFk-Zjhk-N2-It-Yjk2-Yy00-Ym-Zm-LTll-N2-Qt-ZTg5-MTQ2-Zm-Vk-NWYz-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg", Reversi (2024)
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cloud.hownetwork.xyz//yyy/MB0_KzcKHmxwYUV4bkczOiYUFhYaHU95czJFfHQ/32/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 1
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://stream.hownetwork.xyz/yyy/bidaah-season-1-episode-1-2025-webdl_X_5d9f695c/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 2
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://stream.hownetwork.xyz/yyy/bidaah-season-1-episode-2-2025-webdl_X_252b6f35/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 3
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://stream.hownetwork.xyz/yyy/bidaah-season-1-episode-3-2025-webdl_X_c12076f1/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 4
+#EXTVLCOPT:http-referrer=https://cdn.turboviplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cdn.turboviplay.com/data1/67d68b062474a/67d68b062474a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 5
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://stream.hownetwork.xyz/yyy/bidaah-season-1-episode-5-2025-webdl_X_da39a3ee/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 6
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://stream.hownetwork.xyz/yyy/bidaah-season-1-episode-6-2025-webdl_X_da39a3ee/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 7
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://stream.hownetwork.xyz/yyy/bidaah-season-1-episode-7-2025-webdl_X_da39a3ee/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 8
+#EXTVLCOPT:http-referrer=https://cdn.turboviplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cdn.turboviplay.com/data1/67ded41977f39/67ded41977f39.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 9
+#EXTVLCOPT:http-referrer=https://cdn.turboviplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cdn.turboviplay.com/data1/67ded79b0b537/67ded79b0b537.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 10
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cloud.hownetwork.xyz//yyy/eb6eef19e48491bc0a5f72a6b22142b8/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 11
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cloud.hownetwork.xyz//yyy/78c484ce33653d9b16007ed269a61b40/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 12
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cloud.hownetwork.xyz//yyy/24173447dff736b274f0ae0b51db3055/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 13
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cloud.hownetwork.xyz//yyy/671f30cf9ac73d3965af4d0ddb1fc255/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 14
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cloud.hownetwork.xyz//yyy/26af698be3949d82cf0b97d6c4b268fc/30/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Bidaah 2025" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/03/film-bidaah-2025-lk21-d21.jpg.webp", S1 EP 15
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cloud.hownetwork.xyz//yyy/06d55653d38e6d586abb7bbac5fb311b/30/480.m3u8
