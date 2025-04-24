@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-ALLOW-CACHE:YES
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:BANDWIDTH=7300000,AVERAGE-BANDWIDTH=7191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745524677/ei/ZUMKaNKIOLjfs8IPjJa4-QI/ip/2001%3Ae68%3A5405%3A531c%3A9c83%3A2df2%3Ae147%3Ae973/id/NOCisq9ASyM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51443405/txs/51443402%2C51443403%2C51443404%2C51443405%2C51443406%2C51443407/hfr/1/playlist_duration/30/manifest_duration/30/gcr/my/bui/AccgBcOtnkCQr6c5j0yAn11p5X0fMgHz5YxpD9UTnmXsyFWSAsengd6MUYOB9AkBQu0eNx4awQoa5WmA/spc/_S3wKoiyGwtn_M8ZUb1PFFeHD6YIcPH26gQ36tKoZD_u9P0DQ6mU19PstblSjqhv_RuCPh_D5Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgR8MrmrJH0htYa7lOR5zLqUqiujwIQgKPkzX7_OVsYrYCIHe0xGpEQJZcnntUc28yamYK2aHDTbPZLRDb4VrNBa4g/file/index.m3u8
