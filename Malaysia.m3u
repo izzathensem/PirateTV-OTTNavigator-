@@ -3381,7 +3381,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F619ac4cb-f585-4818-a7ef-342ec3c20544%2FMIRAMAX_HORIZONTAL_DEFAULT_ARTWORK_-_Gabe_Evans.jpg", Miramax Movies Channel
-https://linear-798.frequency.stream/mt/studio/798/hls/master/playlist.m3u8
+https://raw.githubusercontent.com/mystery75/m3u8/refs/heads/main/MIRAMAX.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Pirate TV | Movies Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20240423T033422SQUARE.png&h=250",Sony One Action Hits 1
 https://linear-801.frequency.stream/mt/studio/801/hls/master/playlist.m3u8
