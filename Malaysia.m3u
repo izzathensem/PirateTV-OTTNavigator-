@@ -1795,34 +1795,34 @@ http://92.112.21.169:20002/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | HongKong/Macau" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/6/63/TVBPlus.webp/revision/latest?cb=20240501234348", TVB Plus
 http://92.112.21.169:20002/smt3.2.1.php?id=j2_twn
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6tz1pp1649341425.png",Nova Sports 1
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6tz1pp1649341425.png",Nova Sports 1
 http://213.215.119.236:88/Nova_sport_1/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/Mp7MkG1J/images-6.png",Nova Sports 2
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/Mp7MkG1J/images-6.png",Nova Sports 2
 http://213.215.119.236:88/Nova_sport_2/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tcj7gr1649341445.png",Nova Sports 3
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tcj7gr1649341445.png",Nova Sports 3
 http://213.215.119.236:88/Nova_sport_3/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/QdnjBGQn/images-7.png", Nova Sports 4
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/QdnjBGQn/images-7.png", Nova Sports 4
 http://213.215.119.236:88/Nova_sport_4/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/kXbHNrPp/Nova-Sport-5.jpg", Nova Sports 5
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/kXbHNrPp/Nova-Sport-5.jpg", Nova Sports 5
 http://213.215.119.236:88/Nova_sport_5/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.fotelka.tv/image/cache/catalog/Sport/arena-sport-240x234.jpg", Arena Sports 1
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.fotelka.tv/image/cache/catalog/Sport/arena-sport-240x234.jpg", Arena Sports 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp",Real Madrid TV English 
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp",Real Madrid TV English 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp",Real Madrid TV ESP
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp",Real Madrid TV ESP
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png",CBC SPORTS
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png",CBC SPORTS
 http://rhsbjv7k.tvclub.xyz/iptv/MVRVAWFDC4M2C3/2193/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",Man United FC TV
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",Man United FC TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:-1 group-title="Pirate TV | Indian Exclusive TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/63tTsMSh/images-8.png",Colors Rishtey IN
@@ -3145,130 +3145,130 @@ http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a
 #EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg", Starlight Film and Television 
 https://fxcx.short.gy/tvgQAa
 
-#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/jf5C9QF.png" ,Stingray Flashback 70s (1080p)
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/jf5C9QF.png" ,Stingray Flashback 70s (1080p)
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayHitList.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/lgpIwId.png" ,Stingray Hit List (1080p)
+#EXTINF:-1 tvg-id="StingrayHitList.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/lgpIwId.png" ,Stingray Hit List (1080p)
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/4xVVKH8.png" ,Stingray Holiday Hits (1080p)
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/4xVVKH8.png" ,Stingray Holiday Hits (1080p)
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/PZhxyIT.png" ,Stingray Hot Country (1080p)
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/PZhxyIT.png" ,Stingray Hot Country (1080p)
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/9TLTLS3.png" ,Stingray Karaoke (1080p)
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/9TLTLS3.png" ,Stingray Karaoke (1080p)
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/882kd90.png" ,Stingray Naturescape (1080p)
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/882kd90.png" ,Stingray Naturescape (1080p)
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/Tq3I0po.png" ,Stingray Nothin' But 90s (1080p)
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/Tq3I0po.png" ,Stingray Nothin' But 90s (1080p)
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayPopAdult.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/H2ugC9L.png" ,Stingray Pop Adult (1080p)
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/H2ugC9L.png" ,Stingray Pop Adult (1080p)
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayEverything80s.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/6E3wYrb.png" ,Stingray Remember the 80s (1080p)
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/6E3wYrb.png" ,Stingray Remember the 80s (1080p)
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/mt8ulVX.png" ,Stingray Rock Alternative (1080p)
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/mt8ulVX.png" ,Stingray Rock Alternative (1080p)
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" ,Stingray Romance Latino (1080p)
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" ,Stingray Romance Latino (1080p)
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/h1DsOzH.png" ,Stingray Smooth Jazz (1080p)
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/h1DsOzH.png" ,Stingray Smooth Jazz (1080p)
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/dU1KC3f.png" ,Stingray Soul Storm (1080p)
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/dU1KC3f.png" ,Stingray Soul Storm (1080p)
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayTheSpa.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/ywAN923.png" ,Stingray The Spa (1080p)
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/ywAN923.png" ,Stingray The Spa (1080p)
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/mMbntB5.png" ,Stingray Today's KPOP (1080p)
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/mMbntB5.png" ,Stingray Today's KPOP (1080p)
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/Os3kRRP.png" ,Stingray Today's Latin Pop (1080p)
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/Os3kRRP.png" ,Stingray Today's Latin Pop (1080p)
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/Os3kRRP.png" ,Stingray Urban Beat (1080p)
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/Os3kRRP.png" ,Stingray Urban Beat (1080p)
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1  tvg-id="Now70s.uk" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/qiCCX5X.png" ,Now 70's
+#EXTINF:-1  tvg-id="Now70s.uk" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/qiCCX5X.png" ,Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Now80s.uk" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/YyPnMeB.png" ,Now 80's
+#EXTINF:-1 tvg-id="Now80s.uk" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/YyPnMeB.png" ,Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NOWRock.uk" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/GuM4GnX.png" ,NOW Rock
+#EXTINF:-1 tvg-id="NOWRock.uk" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/GuM4GnX.png" ,NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-id="IHeart80s.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/Fbgxqqq.png" ,iHeart 80s (1080p)
+#EXTINF:-1  tvg-id="IHeart80s.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/Fbgxqqq.png" ,iHeart 80s (1080p)
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IHeart90s.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/Vo09eBa.png" ,iHeart 90s (1080p)
+#EXTINF:-1 tvg-id="IHeart90s.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/Vo09eBa.png" ,iHeart 90s (1080p)
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Vevo Pop
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VevoRB.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",Vevo R&B
+#EXTINF:-1 tvg-id="VevoRB.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",Vevo R&B
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
 
-#EXTINF:-1 tvg-id="VevoReggaetonTrap.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg",Vevo Reggaeton & Trap
+#EXTINF:-1 tvg-id="VevoReggaetonTrap.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg",Vevo Reggaeton & Trap
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce915-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c81eefb9-90f6-4a75-9397-7b98312cde71
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/17eaaa16-8c33-442d-a392-3fecd0184e1d/dhlsu8v-69571b03-0715-41ec-b891-37daf60252a0.png/v1/fill/w_409,h_216/vevo_regional_mexicano__may_23_2024__by_joaquinrojascarrera_dhlsu8v-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2IiwicGF0aCI6IlwvZlwvMTdlYWFhMTYtOGMzMy00NDJkLWEzOTItM2ZlY2QwMTg0ZTFkXC9kaGxzdTh2LTY5NTcxYjAzLTA3MTUtNDFlYy1iODkxLTM3ZGFmNjAyNTJhMC5wbmciLCJ3aWR0aCI6Ijw9NDA5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.5-2xMXPvdjlCTmnfNzYfngU7GHo9h9yai_SdAy4Mo24",Vevo Regional Mexicano
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/17eaaa16-8c33-442d-a392-3fecd0184e1d/dhlsu8v-69571b03-0715-41ec-b891-37daf60252a0.png/v1/fill/w_409,h_216/vevo_regional_mexicano__may_23_2024__by_joaquinrojascarrera_dhlsu8v-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2IiwicGF0aCI6IlwvZlwvMTdlYWFhMTYtOGMzMy00NDJkLWEzOTItM2ZlY2QwMTg0ZTFkXC9kaGxzdTh2LTY5NTcxYjAzLTA3MTUtNDFlYy1iODkxLTM3ZGFmNjAyNTJhMC5wbmciLCJ3aWR0aCI6Ijw9NDA5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.5-2xMXPvdjlCTmnfNzYfngU7GHo9h9yai_SdAy4Mo24",Vevo Regional Mexicano
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce916-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a80400b9-d4b6-4bbf-812e-2c1959206e6b
 
-#EXTINF:-1 tvg-id="VevoRetroRock.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/H1Aap4E.png",Vevo Retro Rock
+#EXTINF:-1 tvg-id="VevoRetroRock.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/H1Aap4E.png",Vevo Retro Rock
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
 
-#EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/owUXUih.png",Vevo True School Hip-Hop
+#EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/owUXUih.png",Vevo True School Hip-Hop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
 
-#EXTINF:-1 tvg-id="Vevo2K.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",Vevo 2K
+#EXTINF:-1 tvg-id="Vevo2K.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",Vevo 2K
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
 
-#EXTINF:-1 tvg-id="Vevo70s.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",Vevo '70s
+#EXTINF:-1 tvg-id="Vevo70s.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",Vevo '70s
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
 
-#EXTINF:-1 tvg-id="Vevo80s.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg",Vevo '80s
+#EXTINF:-1 tvg-id="Vevo80s.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg",Vevo '80s
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
 
-#EXTINF:-1 tvg-id="Vevo90s.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg",Vevo '90s
+#EXTINF:-1 tvg-id="Vevo90s.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg",Vevo '90s
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
 
-#EXTINF:-1 tvg-id="VevoCountry.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg",Vevo Country
+#EXTINF:-1 tvg-id="VevoCountry.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg",Vevo Country
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/6QFd1tQR/download.png",Vevo Hip-Hop et RnB
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/6QFd1tQR/download.png",Vevo Hip-Hop et RnB
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg",Vevo Íconos Latinos
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg",Vevo Íconos Latinos
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce910-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=79a35639-aaba-46f2-bc03-c95f92f52181
 
-#EXTINF:-1 tvg-id="VevoLatino.us" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/D7SwmuB.png",Vevo Latino
+#EXTINF:-1 tvg-id="VevoLatino.us" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/D7SwmuB.png",Vevo Latino
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce911-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7c08002-33dc-40eb-8b3c-28a20a838cdb
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i0.wp.com/www.telemagazine.it/wp-content/uploads/2022/10/e078bd8d-c65f-57d5-4837-4e24a5bbf30e.jpg?resize=920%2C425&ssl=1",VH1+ Music Legends
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i0.wp.com/www.telemagazine.it/wp-content/uploads/2022/10/e078bd8d-c65f-57d5-4837-4e24a5bbf30e.jpg?resize=920%2C425&ssl=1",VH1+ Music Legends
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",VH1+ Rocks
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",VH1+ Rocks
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="MTVLoveMusic.ch" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfjFcIrdclWISkB3nJVhJ5PmKvI2_vrKXzww&s",MTV Love Music
+#EXTINF:-1 tvg-id="MTVLoveMusic.ch" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfjFcIrdclWISkB3nJVhJ5PmKvI2_vrKXzww&s",MTV Love Music
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61923ac16d03190008138a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc6-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e74d6646-9f56-44fb-99d3-0ba1c931151e&serverSideAds=false
 
-#EXTINF:-1 tvg-id="MTVMovieHits.ch" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ348-mApwwDj9VMQLnJ49niDd0m3GgD3AYBA&s",MTV Movie Hits
+#EXTINF:-1 tvg-id="MTVMovieHits.ch" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ348-mApwwDj9VMQLnJ49niDd0m3GgD3AYBA&s",MTV Movie Hits
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d05006d79800081fff9c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc7-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1c101753-5bc9-494e-8cb0-b59f198f3f9b&serverSideAds=false
 
-#EXTINF:-1 tvg-id="MTVMusic.ch" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxKLBoczXozjfJVzwSfg9Mpd_c_udvG75ag&s",MTV Music
+#EXTINF:-1 tvg-id="MTVMusic.ch" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxKLBoczXozjfJVzwSfg9Mpd_c_udvG75ag&s",MTV Music
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc8-4b91-11ef-8a44-83﻿c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f02a8ef1-7c07-44f9-9197-c9b197dbc277&serverSideAds=false
 
-#EXTINF:-1 tvg-id="MTVUnplugged.ch" group-title="Pirate TV | Music Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/MTV_Unplugged_2.0_logo.jpg/220px-MTV_Unplugged_2.0_logo.jpg",MTV Unplugged
+#EXTINF:-1 tvg-id="MTVUnplugged.ch" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/MTV_Unplugged_2.0_logo.jpg/220px-MTV_Unplugged_2.0_logo.jpg",MTV Unplugged
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc84dde4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1406a1ca-e8e3-4148-b048-e6a5a40fe9ea&serverSideAds=false
 
 #EXTINF:-1 group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/zing_live.jpg",Zing TV
