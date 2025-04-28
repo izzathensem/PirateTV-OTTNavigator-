@@ -800,10 +800,10 @@ https://linearjitp.perfecttv.net/vinmeen.mpd
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 https://linearjitp.perfecttv.net/Abo.mpd
 
-#EXTINF:- group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608034734563662_89.png",Setanta Sports 1 Rus
+#EXTINF:- group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608034734563662_89.png",Setanta Sports 1 Rus
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/SetantaSports1Ru.m3u8
 
-#EXTINF:- group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.balticom.lv/assets/images/channels/Setanta%20Sports%202.png",Setanta Sports 2 Rus
+#EXTINF:- group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.balticom.lv/assets/images/channels/Setanta%20Sports%202.png",Setanta Sports 2 Rus
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/SetantaSports2Ru.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Tonton" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Drama_Sangat_2024_logo.svg", Drama Sangat
@@ -2205,31 +2205,31 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
 https://cloud.hownetwork.xyz//yyy/d4a543ff57f0d80ba5a65299851af8b3/31/480.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6tz1pp1649341425.png",Nova Sports 1
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6tz1pp1649341425.png",Nova Sports 1
 http://213.215.119.236:88/Nova_sport_1/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/Mp7MkG1J/images-6.png",Nova Sports 2
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/Mp7MkG1J/images-6.png",Nova Sports 2
 http://213.215.119.236:88/Nova_sport_2/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tcj7gr1649341445.png",Nova Sports 3
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tcj7gr1649341445.png",Nova Sports 3
 http://213.215.119.236:88/Nova_sport_3/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/QdnjBGQn/images-7.png", Nova Sports 4
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/QdnjBGQn/images-7.png", Nova Sports 4
 http://213.215.119.236:88/Nova_sport_4/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/kXbHNrPp/Nova-Sport-5.jpg", Nova Sports 5
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/kXbHNrPp/Nova-Sport-5.jpg", Nova Sports 5
 http://213.215.119.236:88/Nova_sport_5/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.fotelka.tv/image/cache/catalog/Sport/arena-sport-240x234.jpg", Arena Sports 1
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.fotelka.tv/image/cache/catalog/Sport/arena-sport-240x234.jpg", Arena Sports 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp",Real Madrid TV English 
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp",Real Madrid TV English 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp",Real Madrid TV ESP
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp",Real Madrid TV ESP
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sports Campuran" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png",CBC SPORTS
+#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png",CBC SPORTS
 http://rhsbjv7k.tvclub.xyz/iptv/MVRVAWFDC4M2C3/2193/index.m3u8
 
 #EXTINF:-1 tvg-id="617b37b361e0fd0008cfd8c5" tvg-chno="55" group-title="Pirate TV | PlutoTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png",Pluto TV Reaction
@@ -3416,16 +3416,16 @@ https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | World Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.ibb.co.com/KVh2kfQ/ion.png",ION 🇺🇸
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | Arabic Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://tv1.ir/img/tv1/1logo.png",TV1 IRN
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Arabic Channel TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://tv1.ir/img/tv1/1logo.png",TV1 IRN
 https://lb-cdn.sepehrtv.ir/securelive3/tv1hd/tv1hd.m3u8?s=A9KNkfAypKEzjap62QmO-Q&t=1745541831
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | Arabic Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.presstv.ir/custom/images/site/LOGO.gif",Press TV 
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Arabic Channel TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.presstv.ir/custom/images/site/LOGO.gif",Press TV 
 https://live.presstv.ir/hls/presstv.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | Arabic Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasim-ir.png",Nazzim TV IRN
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Arabic Channel TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasim-ir.png",Nazzim TV IRN
 https://s-cloud.irib.ir/twb/live/nasim/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | Arabic Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/oo/ofogh-tv-ir.png",Ofogh HD Sima Network IRN
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Arabic Channel TV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/oo/ofogh-tv-ir.png",Ofogh HD Sima Network IRN
 https://lb-cdn.sepehrtv.ir/securelive3/ofoghhd/ofoghhd.m3u8?s=REsgo2hkNWUSua05ifc8ug&t=1745542950
 
 #EXTINF:-1 tvg-id="" group-title="Pirate TV | World News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.presstv.ir/custom/images/site/LOGO.gif",Press TV 
