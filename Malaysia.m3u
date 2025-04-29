@@ -3091,60 +3091,6 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:D2:29:93&stream=280830&extens
 #EXTINF:- group-title="Pirate TV | Singapore" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9b/HUB_Sports_5.png/revision/latest/scale-to-width-down/250?cb=20240218063404&path-prefix=vi", Hub Sports 5 
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:D2:29:93&stream=280831&extension=ts&play_token=rVE1zC3jFy
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/BRTV%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85_logo.png/revision/latest?cb=20250328114917&path-prefix=vi",Beijing TV 4K
-http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Qinghai_Television.png",Qinghai Satellite TV
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=c86477701744495611
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shaanxi-satellite-tv-cn.png",Shaanxi Satellite TV
-http://stream.snrtv.com/sxbc-star-gxIS59.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sansha_tv_cn.png",Sansha Satellite TV
-https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=7f3def101744486905
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/lztvggpd.jpg",Luzhou Local Satellite TV
-http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/13MzKM1n/Screenshot-2025-04-13-154346.jpg",Luojiang Satellite TV
-https://pull.luojiangrongmei.com/ljds/ljtv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://img1.od-cdn.com/ImageType-400/8437-1/91D/AE8/1F/%7B91DAE81F-5B07-4D3A-9014-CBB40C39D077%7DImg400.jpg",Wujiang Satellite TV
-https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Dragon_TV_2015_Stacked_logo.png/revision/latest/scale-to-width-down/250?cb=20241209140521",Dragon TV
-http://1.24.190.122:1080/hls/66/index.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
-http://1.24.190.122:1080/hls/85/index.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",Shenzen TV
-http://1.24.190.122:1080/hls/76/index.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/800px-Jiangsu_Broadcasting_Corporation.svg.png",Jiangsu TV
-http://1.24.190.122:1080/hls/61/index.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",Hunan TV
-http://1.24.190.122:1080/hls/60/index.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg",Zhejiang TV
-http://1.24.190.122:1080/hls/63/index.m3u8
-
-#EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/BRTV%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85_logo.png/revision/latest?cb=20250328114917&path-prefix=vi", Beijing Satelite TV 4K
-http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
-
-#EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/BRTV%E6%96%87%E8%89%BA.png/revision/latest?cb=20240209114531&path-prefix=vi", Beijing Satelite TV 2
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1744693210&sign=303d87bd599383b46e5f1d07354d407e
-
-#EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/kaku.jpg", Beijing Kaku TV
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1744491556&sign=ea960499da2d9743420c66d216aa877a
-
-#EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/gzxwpd.jpg", Guangzhou Satellite TV
-http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
-
-#EXTINF:- group-title="Pirate TV | Chinese Province" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg", Starlight Film and Television 
-https://fxcx.short.gy/tvgQAa
-
 #EXTINF:-1 tvg-id="StingrayFlashback70s.ca" group-title="Pirate TV | World Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/jf5C9QF.png" ,Stingray Flashback 70s (1080p)
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 
@@ -3617,3 +3563,126 @@ https://l02.dp.sooka.my/5100/linear/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F8Ga1nClV+aIJBnWkj+tJw","kid":"cq1uqhkEVAE4SH//o61lEA"}],"type":"temporary"} 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+
+#EXTINF:-1  tvg-name="CCTV1" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (Comprehensive)
+http://43.152.23.238:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV2" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png",CCTV2 (Finance) 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV3" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",CCTV3 (Variety Show) 
+http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV4" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",CCTV4 (International) 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV5" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" ,CCTV5 (Sports) 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV5+" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png",CCTV5+ (Sports) 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV6" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png",CCTV6 (Movies)
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV7" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png",CCTV7
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV8" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png",CCTV8 (TV Series)
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV9" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png",CCTV9 (Record)
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV10" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png",CCTV10 (Science and Education)
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV11" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png",CCTV11 (Opera)
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV12" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png",CCTV12 (Socialty and Law)
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV13" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/WePXGrJnqWzyJM7LCQUyHAyksVfuTtSndDewid7yRqaFNsscFkWiGSUIgKsROm63bIwut-mdyYtrXOrlJOoajA.svg",CCTV 13
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv13HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV14" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png",CCTV14 (Children)
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv14HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV15" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png",CCTV15 (Music)
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV16" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png",CCTV16
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1  tvg-name="CCTV17" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png",CCTV17
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/BRTV%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85_logo.png/revision/latest?cb=20250328114917&path-prefix=vi",Beijing TV 4K
+http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Qinghai_Television.png",Qinghai Satellite TV
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=c86477701744495611
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shaanxi-satellite-tv-cn.png",Shaanxi Satellite TV
+http://stream.snrtv.com/sxbc-star-gxIS59.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sansha_tv_cn.png",Sansha Satellite TV
+https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=7f3def101744486905
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/lztvggpd.jpg",Luzhou Local Satellite TV
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/13MzKM1n/Screenshot-2025-04-13-154346.jpg",Luojiang Satellite TV
+https://pull.luojiangrongmei.com/ljds/ljtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://img1.od-cdn.com/ImageType-400/8437-1/91D/AE8/1F/%7B91DAE81F-5B07-4D3A-9014-CBB40C39D077%7DImg400.jpg",Wujiang Satellite TV
+https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Dragon_TV_2015_Stacked_logo.png/revision/latest/scale-to-width-down/250?cb=20241209140521",Dragon TV
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",Shenzen TV
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/800px-Jiangsu_Broadcasting_Corporation.svg.png",Jiangsu TV
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://e7.pngegg.com/pngimages/184/708/png-clipart-hunan-television-television-channel-mango-tv-stale-television-angle.png",Hunan TV
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg",Zhejiang TV
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
+
+#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/BRTV%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85_logo.png/revision/latest?cb=20250328114917&path-prefix=vi", Beijing Satelite TV 4K
+http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
+
+#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/BRTV%E6%96%87%E8%89%BA.png/revision/latest?cb=20240209114531&path-prefix=vi", Beijing Satelite TV 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+
+#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/kaku.jpg", Beijing Kaku TV
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/bjkakuSD/__op/default/__f/index.m3u8
+
+#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/gzxwpd.jpg", Guangzhou Satellite TV
+http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
+
+#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/hbys.jpg", Hubei TV 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
+
+#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/liaoningtv.jpg", Liaoning TV 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
+
+#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/guizhoutv.jpg", Guizhou TV 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
+
+#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/SRT_Logo_2019.svg/revision/latest/scale-to-width-down/250?cb=20240506171300",Sichuan TV 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
+
+#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/tianjintv.jpg",Tianjin TV 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
+
+#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
