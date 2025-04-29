@@ -3604,7 +3604,7 @@ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/de
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1  tvg-name="CCTV13" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.namu.wiki/i/WePXGrJnqWzyJM7LCQUyHAyksVfuTtSndDewid7yRqaFNsscFkWiGSUIgKsROm63bIwut-mdyYtrXOrlJOoajA.svg",CCTV 13
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv13HD/__op/default/__f/index.m3u8
+http://121.30.137.26:8081/hls/3/index.m3u8
 
 #EXTINF:-1  tvg-name="CCTV14" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png",CCTV14 (Children)
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv14HD/__op/default/__f/index.m3u8
