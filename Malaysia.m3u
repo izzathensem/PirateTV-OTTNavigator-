@@ -3686,3 +3686,45 @@ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/tianjinHD/__op/d
 
 #EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV 
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="146" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (MyFreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2 (Myfreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM (Myfreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6 (Myfreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/DZMhf0KJ/IMG-20240225-224221-479-picsay-7.jpg",Berita RTM (Myfreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY (Myfreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-id="rtm_snap" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg", RTM Snap
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/manifest.mpd
+
+#EXTINF:-1 tvg-id="rtm_lead" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg", RTM Lead
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/manifest.mpd
+
+#EXTINF:-1 tvg-id="rtm_apetito" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg", RTM Apetito
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/manifest.mpd
+
+#EXTINF:-1 tvg-id="rtm_fitrah" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg", RTM Fitrah
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/manifest.mpd
+
+#EXTINF:-1 tvg-id="rtm_junior" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg", RTM Junior
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/manifest.mpd
+
+#EXTINF:-1 tvg-id="rtm_roll" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg", RTM Roll
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/manifest.mpd
+
+#EXTINF:-1 tvg-id="rtm_aura" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg", RTM Aura
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/manifest.mpd
