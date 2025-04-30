@@ -3728,3 +3728,27 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/manifest.mpd
 
 #EXTINF:-1 tvg-id="rtm_aura" group-title="Pirate TV | RTM KLIK" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg", RTM Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Actor/Actress Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://img.lazcdn.com/g/p/ece47e924a3f5ae19ccc72ec445edaad.jpg_720x720q80.jpg", Steven Chow Movies Collection 24/7
+https://live.metshop.top/huya/11336587
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Actor/Actress Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://laz-img-sg.alicdn.com/p/321a766f1c3bf6a2da4c4a4dc7880808.jpg", Jackie Chan Movies Collection 24/7
+https://live.metshop.top/huya/11342386
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Actor/Actress Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.ytimg.com/vi/nmKKkfSosrg/maxresdefault.jpg",Chow Yun Fatt Movies Collection 24/7
+https://live.metshop.top/huya/11342387
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Actor/Actress Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://m.media-amazon.com/images/I/51GR-Y1AJoL._AC_UF894,1000_QL80_.jpg",Jason Statham Movies Collection 24/7
+https://live.metshop.top/huya/21059588
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Actor/Actress Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://m.media-amazon.com/images/I/814AlRUP-LL._AC_UF894,1000_QL80_.jpg", Dwayne Johnson Movies Collection 24/7
+https://live.metshop.top/huya/21059581
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/CHC-%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png/revision/latest?cb=20240912045344",CHC MOVIES 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/CHC-%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png/revision/latest/scale-to-width-down/250?cb=20240912044219",CHC ACTION MOVIES
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chc-home-theater-cn.png",CHC HOME THEATER 
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
