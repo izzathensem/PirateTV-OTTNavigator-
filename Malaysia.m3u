@@ -3663,7 +3663,7 @@ http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
 #EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/BRTV%E6%96%87%E8%89%BA.png/revision/latest?cb=20240209114531&path-prefix=vi", Beijing Satelite TV 
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
 
-#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/kaku.jpg", Beijing Kaku TV
+#EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/bb/brtv-kaku-cn.png", Beijing Kaku TV
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/bjkakuSD/__op/default/__f/index.m3u8
 
 #EXTINF:- group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvchinese.net/uploads/tv/gzxwpd.jpg", Guangzhou Satellite TV
