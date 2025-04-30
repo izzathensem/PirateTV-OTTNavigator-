@@ -1,5 +1,11 @@
 EXTM3U
 
+#EXTINF:-1 tvg-id="" ch-number="100" tvg-name="Astro Scream" group-title="Pirate TV | Channel Free Special" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/581_144.png", 100 Astro Scream
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_ott.mpd
+
 #EXTINF:-1 tvg-id="101" group-title="Pirate TV | Malaysia" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-name="TV1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 (Astro Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
