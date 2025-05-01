@@ -1787,19 +1787,19 @@ http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 
 #EXTINF:14 tvg-id="aktv/null-2" group-title="Pirate TV | HongKong/Macau" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://viu.tv/staticV3/images/nav/icon_viutv.png", Viutv 
-http://92.112.21.169:20002/smt3.2.1.php?id=viu1_twn
+https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
 
 #EXTINF:14 tvg-id="aktv/null-2" group-title="Pirate TV | HongKong/Macau" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ed/ViuTVsix.png/revision/latest/scale-to-width-down/340?cb=20230731075330&path-prefix=vi", Viutv6 
-http://92.112.21.169:20002/smt3.2.1.php?id=viusix_twn
+https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | HongKong/Macau" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png", TVB PEARL 明珠台
-http://92.112.21.169:20002/smt3.2.1.php?id=pearl_twn
+https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | HongKong/Macau" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/908fQV3D/TVB.png",TVB Jade
-http://92.112.21.169:20002/smt3.2.1.php?id=jade_twn
+https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | HongKong/Macau" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/6/63/TVBPlus.webp/revision/latest?cb=20240501234348", TVB Plus
-http://92.112.21.169:20002/smt3.2.1.php?id=j2_twn
+https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
 
 #EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6tz1pp1649341425.png",Nova Sports 1
 http://213.215.119.236:88/Nova_sport_1/index.m3u8
