@@ -3416,38 +3416,14 @@ https://fxcx.short.gy/AstroRia.m3u8
 #EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-name="PRIMA HD" group-title="Pirate TV | Token 8278" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/AstroPrima.m3u8
 
+#EXTINF:-1 group-title="Pirate TV | Token 8278" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Quan Jia 
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/AstroQJ.m3u8
+
 #EXTINF:-1 tvg-id="803.astro" group-title="Pirate TV | Token 8278" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",Astro Arena Bola
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/ArenaBola1HD.m3u8
 
 #EXTINF:-1 tvg-id="804.astro" group-title="Pirate TV | Token 8278" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png",Astro Arena Bola 2
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/ArenaBola2HD.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | Token 8278" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Quan Jia 
-https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/AstroQJ.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | Sky Sports Group" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sports F1 HD
-https://32tech0steam0dp01.org/live/UK_SkySportF1FHD/chunks.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sports F1 HD
-https://32tech0steam0dp01.org/live/UK_SkySportF1FHD/chunks.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | Sky Sports Group" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png",Sky Sports Tennis HD
-https://32tech0steam0dp01.org/live/UK_SkySportsTennisFHD/chunks.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png",Sky Sports Tennis HD
-https://32tech0steam0dp01.org/live/UK_SkySportsTennisFHD/chunks.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | Sky Sports Group" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sky_Sport_Football_HD_-_Logo_2018.svg/2560px-Sky_Sport_Football_HD_-_Logo_2018.svg.png",Sky Sports Football HD
-https://32tech0steam0dp01.org/live/UK_SkySportsFootballFHD/chunks.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sky_Sport_Football_HD_-_Logo_2018.svg/2560px-Sky_Sport_Football_HD_-_Logo_2018.svg.png",Sky Sports Football HD
-https://32tech0steam0dp01.org/live/UK_SkySportsFootballFHD/chunks.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | Sky Sports Group" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png",Sky Sports Top Event HD
-https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
-
-#EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png",Sky Sports Top Event HD
-https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
 
 #EXTINF:-1 tvg-id="INews TV" group-title="Pirate TV | RCTI+" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" ,INews TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
@@ -3758,3 +3734,48 @@ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/d
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | China Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chc-home-theater-cn.png",CHC HOME THEATER 
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+
+#EXTINF:-1 tvg-id="skyaction.uk" group-title="Pirate TV | Sky Digital TV | Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Cinema Action
+http://supersonictv.live:8080/live/144264/661943/77462.ts
+
+#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" group-title="Pirate TV | Sky Digital TV | Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
+http://supersonictv.live:8080/live/144264/661943/77463.ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" group-title="Pirate TV | Sky Digital TV | Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
+http://supersonictv.live:8080/live/144264/661943/77464.ts
+
+#EXTINF:-1 tvg-id="skydrama.uk" group-title="Pirate TV | Sky Digital TV | Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Cinema Drama
+http://supersonictv.live:8080/live/144264/661943/77465.ts
+
+#EXTINF:-1 tvg-id="skyfamily.uk" group-title="Pirate TV | Sky Digital TV | Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Sky_Cinema_Family_%28alternative%29.svg/revision/latest/scale-to-width-down/1000?cb=20220502203843",Sky Cinema Family
+http://supersonictv.live:8080/live/144264/661943/77466.ts
+
+#EXTINF:-1 tvg-id="skygreats.uk" group-title="Pirate TV | Sky Digital TV | Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Sky_Cinema_Greats_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20200918051036",Sky Cinema Greats
+http://supersonictv.live:8080/live/144264/661943/77467.ts
+
+#EXTINF:-1 tvg-id="skypremiere.uk" group-title="Pirate TV | Sky Digital TV | Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Cinema Premiere
+http://supersonictv.live:8080/live/144264/661943/77468.ts
+
+#EXTINF:-1 tvg-id="skyscifihorror.uk" group-title="Pirate TV | Sky Digital TV | Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/dc/Sky_Cinema_Sci-Fi_Horror_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20201028120857",Sky Cinema ScFi
+http://supersonictv.live:8080/live/144264/661943/77469.ts
+
+#EXTINF:-1 tvg-id="skyselect.uk" group-title="Pirate TV | Sky Digital TV | Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
+http://supersonictv.live:8080/live/144264/661943/77470.ts
+
+#EXTINF:-1 tvg-id="skythriller.uk" group-title="Pirate TV | Sky Digital TV | Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Cinema Thriller
+http://supersonictv.live:8080/live/144264/661943/77471.ts
+
+#EXTINF:-1 group-title="Pirate TV | Sky Digital TV | Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sports F1 HD
+https://32tech0steam0dp01.org/live/UK_SkySportF1FHD/chunks.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sky Digital TV | Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png",Sky Sports Tennis HD
+https://32tech0steam0dp01.org/live/UK_SkySportsTennisFHD/chunks.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sky Digital TV | Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sky_Sport_Football_HD_-_Logo_2018.svg/2560px-Sky_Sport_Football_HD_-_Logo_2018.svg.png",Sky Sports Football HD
+https://32tech0steam0dp01.org/live/UK_SkySportsFootballFHD/chunks.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sky Digital TV | Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png",Sky Sports Top Event HD
+https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Sky Digital TV | Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png",Sky Sports Cricket
+http://Supersonictv.live:8080/live/144264/661943/78148.m3u8
