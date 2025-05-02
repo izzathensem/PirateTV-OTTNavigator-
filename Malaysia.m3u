@@ -3480,7 +3480,7 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa" group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/8w61kFX.png",Alkass Two (1080p)
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | Sky Sports Group" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png",Sky Sports Premier League HD
+#EXTINF:-1 group-title="Pirate TV | Sky Digital TV | Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png",Sky Sports Premier League HD
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/SkySportsPremierLeague.m3u8
 
 #EXTINF:-1 group-title="Pirate TV | World Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png",Sky Sports Premier League HD
