@@ -1352,226 +1352,226 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",Originals
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",Originals
 http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",CineEdge
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",CineEdge
 http://202.147.193.244/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",Superrix
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",Superrix
 http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",Unique
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",Unique
 http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",Buddy Star
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",Buddy Star
 http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-#EXTINF:-1  group-title="Pirate TV | VisionPlus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/indotv/images/4/46/Trans_7_2013.png/revision/latest?cb=20210317160255",TRANS 7
+#EXTINF:-1  group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/indotv/images/4/46/Trans_7_2013.png/revision/latest?cb=20210317160255",TRANS 7
 http://202.147.193.244/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-id="Bali TV.id" group-title="Pirate TV | VisionPlus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JbtnVEu.png",Bali TV
+#EXTINF:-1 tvg-id="Bali TV.id" group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JbtnVEu.png",Bali TV
 http://202.147.193.244/live/eds/BaliTV/sa_dash/BaliTV.mpd
 
-#EXTINF:-1 tvg-id="Jaktv.id" group-title="Pirate TV | VisionPlus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jbtnm4s.png",JakTV
+#EXTINF:-1 tvg-id="Jaktv.id" group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jbtnm4s.png",JakTV
 http://202.147.193.244/live/eds/JakTV/sa_dash/JakTV.mpd
 
-#EXTINF:-1 tvg-id="NET TV.id" group-title="Pirate TV | VisionPlus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png",MDTV
+#EXTINF:-1 tvg-id="NET TV.id" group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png",MDTV
 http://202.147.193.244/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
  
-#EXTINF:-1 tvg-id="RTV.id" group-title="Pirate TV | VisionPlus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JMp3PVt.png",RTV
+#EXTINF:-1 tvg-id="RTV.id" group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JMp3PVt.png",RTV
 http://202.147.193.244/live/eds/RTV/sa_dash/RTV.mpd
 
-#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" group-title="Pirate TV | VisionPlus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JMp36xI.png",RCTI
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JMp36xI.png",RCTI
 http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
  
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" group-title="Pirate TV | VisionPlus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JMp3kla.png",MNCTV
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JMp3kla.png",MNCTV
 http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
  
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" group-title="Pirate TV | VisionPlus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JMp3joP.png",GTV
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JMp3joP.png",GTV
 http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
-#EXTINF:-1 tvg-id="SEA TODAY - [Channel 336].id" group-title="Pirate TV | VisionPlus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JV3xLAl.png",SEA Today
+#EXTINF:-1 tvg-id="SEA TODAY - [Channel 336].id" group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JV3xLAl.png",SEA Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
 
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JV3x4Fs.png",iNews
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JV3x4Fs.png",iNews
 http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
  
-#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JV3xQN2.png",Sindonews TV
+#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JV3xQN2.png",Sindonews TV
 http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
  
-#EXTINF:-1 tvg-id="IDX HD - [Channel 436].id" group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JV3xvtI.png",IDX Channel
+#EXTINF:-1 tvg-id="IDX HD - [Channel 436].id" group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JV3xvtI.png",IDX Channel
 http://202.147.193.244/live/eds/IDX/sa_dash/IDX.mpd
 
-#EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" group-title="Pirate TV | VisionPlus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZInBLX.png",Vision Prime
+#EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" group-title="Pirate TV | Vision Plus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZInBLX.png",Vision Prime
 http://202.147.193.244/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
  
-#EXTINF:-1 tvg-id="Entertainment - [Channel 86].id" group-title="Pirate TV | VisionPlus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZInddv.png", MNC Entertainment
+#EXTINF:-1 tvg-id="Entertainment - [Channel 86].id" group-title="Pirate TV | Vision Plus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZInddv.png", MNC Entertainment
 http://202.147.193.244/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
 
-#EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" group-title="Pirate TV | VisionPlus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZIn3ep.png",Celebrities TV
+#EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" group-title="Pirate TV | Vision Plus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZIn3ep.png",Celebrities TV
 http://202.147.193.244/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
  
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-m.png",Hanacaraka TV (V+)
+#EXTINF:-1 group-title="Pirate TV | Vision Plus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-m.png",Hanacaraka TV (V+)
 http://202.147.193.244/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
 
-#EXTINF:-1 tvg-id="701.astro" group-title="Pirate TV | VisionPlus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZIBmlf.png",AXN
+#EXTINF:-1 tvg-id="701.astro" group-title="Pirate TV | Vision Plus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZIBmlf.png",AXN
 http://202.147.193.244/live/eds/AXN/sa_dash/AXN.mpd
 
-#EXTINF:-1 tvg-id="473.unifi" group-title="Pirate TV | VisionPlus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZICKiu.png",Rock Entertainment
+#EXTINF:-1 tvg-id="473.unifi" group-title="Pirate TV | Vision Plus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZICKiu.png",Rock Entertainment
 http://202.147.193.244/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd
  
-#EXTINF:-1 tvg-id="KIX - [Channel 161].id" group-title="Pirate TV | VisionPlus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZICJNS.png",Kix
+#EXTINF:-1 tvg-id="KIX - [Channel 161].id" group-title="Pirate TV | Vision Plus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZICJNS.png",Kix
 http://202.147.193.244/live/eds/KIX/sa_dash/KIX.mpd
  
-#EXTINF:-1 tvg-id="454.unifi" group-title="Pirate TV | VisionPlus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZICHR2.png",Hits
+#EXTINF:-1 tvg-id="454.unifi" group-title="Pirate TV | Vision Plus:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZICHR2.png",Hits
 http://202.147.193.244/live/eds/HITS/sa_dash/HITS.mpd
 
-#EXTINF:-1 tvg-id="211.unifi" group-title="Pirate TV | VisionPlus:Korean&Japanese" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo20jS.png",tvN
+#EXTINF:-1 tvg-id="211.unifi" group-title="Pirate TV | Vision Plus:Korean&Japanese" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo20jS.png",tvN
 http://202.147.193.244/live/eds/tvN/sa_dash/tvN.mpd
  
-#EXTINF:-1 tvg-id="461.unifi" group-title="Pirate TV | VisionPlus:Korean&Japanese" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo2Gn9.png",One
+#EXTINF:-1 tvg-id="461.unifi" group-title="Pirate TV | Vision Plus:Korean&Japanese" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo2Gn9.png",One
 http://202.147.193.244/live/eds/SetOne/sa_dash/SetOne.mpd
  
-#EXTINF:-1 tvg-id="392.astro" group-title="Pirate TV | VisionPlus:Korean&Japanese" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo21Z7.png"KBS World
+#EXTINF:-1 tvg-id="392.astro" group-title="Pirate TV | Vision Plus:Korean&Japanese" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo21Z7.png"KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
-#EXTINF:-1 tvg-id="Arirang - [Channel 351].id" group-title="Pirate TV | VisionPlus:Korean&Japanese" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo2lu2.png",Arirang
+#EXTINF:-1 tvg-id="Arirang - [Channel 351].id" group-title="Pirate TV | Vision Plus:Korean&Japanese" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo2lu2.png",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="398.astro" group-title="Pirate TV | VisionPlus:Korean&Japanese" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo2pFs.png",NHK World Premium
+#EXTINF:-1 tvg-id="398.astro" group-title="Pirate TV | Vision Plus:Korean&Japanese" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo2pFs.png",NHK World Premium
 http://202.147.193.244/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
 
-#EXTINF:-1 tvg-id="IMC - [Channel 14].id" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmny4iG.png",IMC
+#EXTINF:-1 tvg-id="IMC - [Channel 14].id" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmny4iG.png",IMC
 http://202.147.193.244/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="416.astro" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoHtne.png",tvN Movies
+#EXTINF:-1 tvg-id="416.astro" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoHtne.png",tvN Movies
 http://202.147.193.244/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
  
-#EXTINF:-1 tvg-id="Thrill - [Channel 19].id" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoHQt9.png",Thrill
+#EXTINF:-1 tvg-id="Thrill - [Channel 19].id" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoHQt9.png",Thrill
 http://202.147.193.244/live/eds/Thrill/sa_dash/Thrill.mpd
 
-#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmod11a.png",Celestial Movies
+#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmod11a.png",Celestial Movies
 http://202.147.193.244/live/eds/CelestialMovie/sa_dash/CelestialMovie.mpd
  
-#EXTINF:-1 tvg-id="CCM - [Channel 22].id" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmod0qg.png",CCM
+#EXTINF:-1 tvg-id="CCM - [Channel 22].id" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmod0qg.png",CCM
 http://202.147.193.244/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-id="401.astro" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo9V72.png",Hits Movies
+#EXTINF:-1 tvg-id="401.astro" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo9V72.png",Hits Movies
 http://202.147.193.244/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
  
-#EXTINF:-1 tvgv-id="Galaxy - [Channel 13].id" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo9aXn.png",Galaxy
+#EXTINF:-1 tvgv-id="Galaxy - [Channel 13].id" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo9aXn.png",Galaxy
 http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
  
-#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo9YzX.png",Galaxy Premium
+#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo9YzX.png",Galaxy Premium
 http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-id="474.unifi" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZIC3x9.png",Rock Action
+#EXTINF:-1 tvg-id="474.unifi" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZIC3x9.png",Rock Action
 http://202.147.193.244/live/eds/Rockaction/sa_dash/Rockaction.mpd
 
-#EXTINF:-1  group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cdn1-production-images-kly.akamaized.net/kVVqHxM81t-lrU36Uq27h5osHxI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3763325/original/043205400_1640055140-zee-bioskop-bdb0e4.jpg",Zee Bioskop
+#EXTINF:-1  group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cdn1-production-images-kly.akamaized.net/kVVqHxM81t-lrU36Uq27h5osHxI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3763325/original/043205400_1640055140-zee-bioskop-bdb0e4.jpg",Zee Bioskop
 http://202.147.193.244/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 
-#EXTINF:-1  tvg-id="ABC Australia - [Channel 350].id" group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia
+#EXTINF:-1  tvg-id="ABC Australia - [Channel 350].id" group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia
 http://202.147.193.244/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",Originals
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",Originals
 http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",CineEdge
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",CineEdge
 http://202.147.193.244/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",Superrix
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",Superrix
 http://202.147.193.244/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",Unique
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",Unique
 http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | VisionPlus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",Buddy Star
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Vision Plus:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",Buddy Star
 http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 tvg-id="472.unifi" group-title="Pirate TV | VisionPlus:Variety" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo2ycG.png",Animax
+#EXTINF:-1 tvg-id="472.unifi" group-title="Pirate TV | Vision Plus:Variety" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/Jmo2ycG.png",Animax
 http://202.147.193.244/live/eds/Animax/sa_dash/Animax.mpd
 
-#EXTINF:-1 tvg-id="MTV 90s - [Channel 149].id" group-title="Pirate TV | VisionPlus:Variety" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZIQ7Np.png",MTV 90s
+#EXTINF:-1 tvg-id="MTV 90s - [Channel 149].id" group-title="Pirate TV | Vision Plus:Variety" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JZIQ7Np.png",MTV 90s
 http://202.147.193.244/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
 
-#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" group-title="Pirate TV | VisionPlus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBUPI.png",Kids TV
+#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" group-title="Pirate TV | Vision Plus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBUPI.png",Kids TV
 http://202.147.193.244/live/eds/KidsChannel/sa_dash/KidsChannel.mpd
 
-#EXTINF:-1 tvg-id="616.astro" group-title="Pirate TV | VisionPlus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBluj.png",Nickelodeon
+#EXTINF:-1 tvg-id="616.astro" group-title="Pirate TV | Vision Plus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBluj.png",Nickelodeon
 http://202.147.193.244/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
  
-#EXTINF:-1 tvg-id="617.astro" group-title="Pirate TV | VisionPlus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBGnV.png",Nick Jr
+#EXTINF:-1 tvg-id="617.astro" group-title="Pirate TV | Vision Plus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBGnV.png",Nick Jr
 http://202.147.193.244/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
  
-#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" group-title="Pirate TV | VisionPlus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBN9a.png",CBeebies
+#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" group-title="Pirate TV | Vision Plus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBN9a.png",CBeebies
 http://202.147.193.244/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
  
-#EXTINF:-1 tvg-id="612.astro" group-title="Pirate TV | VisionPlus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBktR.png",Dreamworks
+#EXTINF:-1 tvg-id="612.astro" group-title="Pirate TV | Vision Plus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBktR.png",Dreamworks
 http://202.147.193.244/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
 
-#EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" group-title="Pirate TV | VisionPlus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBV6P.png",ZooMoo
+#EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" group-title="Pirate TV | Vision Plus:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoBV6P.png",ZooMoo
 http://202.147.193.244/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
 
-#EXTINF:-1 tvg-id="516.astro" group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JhksIF2.png",CNBC Asia
+#EXTINF:-1 tvg-id="516.astro" group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JhksIF2.png",CNBC Asia
 http://202.147.193.244/live/eds/CNBC/sa_dash/CNBC.mpd
 
-#EXTINF:-1 tvg-id="551.astro" group-title="Pirate TV | VisionPlus:Knowledge" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoCrWQ.png",Global Trekker
+#EXTINF:-1 tvg-id="551.astro" group-title="Pirate TV | Vision Plus:Knowledge" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://iili.io/JmoCrWQ.png",Global Trekker
 http://202.147.193.244/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
  
-#EXTINF:-1 tvg-id="TransTV" group-title="Pirate TV | VisionPlus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg",TransTV HD
+#EXTINF:-1 tvg-id="TransTV" group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg",TransTV HD
 http://202.147.193.244/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
-#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.ball24hr.com/wp-content/uploads/2022/04/tpf1.jpg",Premier Football 1 HD
+#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.ball24hr.com/wp-content/uploads/2022/04/tpf1.jpg",Premier Football 1 HD
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/TrueSportsPremierLeague1.m3u8
 
-#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.ball24hr.com/wp-content/uploads/2022/04/tpf2.jpg",Premier Football 2 HD
+#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.ball24hr.com/wp-content/uploads/2022/04/tpf2.jpg",Premier Football 2 HD
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/TrueSportsPremierLeague2.m3u8
 
-#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premier-football-3-th.png",Premier Football 3 HD
+#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premier-football-3-th.png",Premier Football 3 HD
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/TrueSportsPremierLeague3.m3u8
 
-#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://truevisions.co.th/static/266b2054-e723-433b-8c9b-a7b52d71eca9.png",True Sports 5
+#EXTINF:-0 tvg-id="" tvg-name="" group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://truevisions.co.th/static/266b2054-e723-433b-8c9b-a7b52d71eca9.png",True Sports 5
 https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/TrueSports5.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", TRUE BEIN SPORT 1 TH
+#EXTINF:-1 group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", TRUE BEIN SPORT 1 TH
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueBein1.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", TRUE BEIN SPORT 2 TH
+#EXTINF:-1 group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", TRUE BEIN SPORT 2 TH
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueBein2.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", TRUE BEIN SPORT 3 TH
+#EXTINF:-1 group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", TRUE BEIN SPORT 3 TH
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueBein3.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10", TRUE SPOTV  1 TH
+#EXTINF:-1 group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10", TRUE SPOTV  1 TH
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueSpotv1.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10", TRUE SPOTV  2 TH
+#EXTINF:-1 group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10", TRUE SPOTV  2 TH
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueSpotv2.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  1 TH
+#EXTINF:-1 group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  1 TH
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True1.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  2 TH
+#EXTINF:-1 group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  2 TH
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True2.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  3 TH
+#EXTINF:-1 group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  3 TH
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True3.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  4 TH
+#EXTINF:-1 group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  4 TH
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True4.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  5 TH
+#EXTINF:-1 group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  5 TH
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True5.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | TrueVision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  7 TH
+#EXTINF:-1 group-title="Pirate TV | True Vision:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU", TRUE SPORT  7 TH
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Astro First 2024" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/04/film-dongeng-sang-kancil-2024-lk21-d21.jpg.webp", DONGENG SANG KANCIL (2024)
@@ -2238,118 +2238,118 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1 tvg-id="" group-title="Pirate TV | YuppTV" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/12/Mazhavil_HD_Logo-1200x900.png",Mazhavil Manorama HD
 https://cdn1.pishow.tv/live/200/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg",AMC_NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg",AMC_NETWORK
 http://143.244.60.97/AMC_NETWORK/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/2560px-C-SPAN_Logo_%282019%29.svg.png", C-SPAN 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Sling TV:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/2560px-C-SPAN_Logo_%282019%29.svg.png", C-SPAN 
 http://84.17.40.25/C-SPAN/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/300px-BBC_America_logo_2021.svg.png",BBC AMERICA 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/300px-BBC_America_logo_2021.svg.png",BBC AMERICA 
 http://143.244.60.30/BBC_AMERICA/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://perfecttv.net/logo/axn.png", AXN (Spanish+English) Latino American 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://perfecttv.net/logo/axn.png", AXN (Spanish+English) Latino American 
 https://streamer1.nexgen.bz/AXN/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg",COMEDY CENTRAL EAST
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg",COMEDY CENTRAL EAST
 https://fl3.moveonjoy.com/Comedy_Central/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel East 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Sling TV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel East 
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/mZ74fPXZ/download-70.png", Disney Junior East 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Sling TV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/mZ74fPXZ/download-70.png", Disney Junior East 
 https://fl5.moveonjoy.com/DISNEY_JR/manifest.mpd
 
-#EXTINF:-1 tvg-id="DisneyXDEast.us" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-logo="https://i.postimg.cc/63s4gzQd/download-51.png", Disney XD East 
+#EXTINF:-1 tvg-id="DisneyXDEast.us" group-title="Pirate TV | Sling TV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg"  tvg-logo="https://i.postimg.cc/63s4gzQd/download-51.png", Disney XD East 
 https://fl5.moveonjoy.com/DISNEY_XD/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1280px-Hallmark_Channel.svg.png",HALLMARK CHANNEL EAST 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1280px-Hallmark_Channel.svg.png",HALLMARK CHANNEL EAST 
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/d/d4/Multiverse_-_Hallmark_Drama.png/revision/latest?cb=20180902201216",HALLMARK DRAMA EAST 
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/d/d4/Multiverse_-_Hallmark_Drama.png/revision/latest?cb=20180902201216",HALLMARK DRAMA EAST 
 https://fl2.moveonjoy.com/HALLMARK_DRAMA/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | SlingTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/440px-HBO_logo.svg.png",HBO East 
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Sling TV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/440px-HBO_logo.svg.png",HBO East 
 http://212.102.60.231/HBO/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | SlingTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEYr2BIO2UUJkwlY7NeVI02H-e_HtbitSFg&s",HBO 2 East 
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Sling TV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEYr2BIO2UUJkwlY7NeVI02H-e_HtbitSFg&s",HBO 2 East 
 http://212.102.60.231/HBO_2/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" group-title="Pirate TV | SlingTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9XLpiOR9Ehn8TsJ8tYYqwvoteeNgTxzRTbA&usqp=CAU",HBO Family East (A)
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" group-title="Pirate TV | Sling TV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9XLpiOR9Ehn8TsJ8tYYqwvoteeNgTxzRTbA&usqp=CAU",HBO Family East (A)
 http://212.102.60.231/HBO_FAMILY/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | SlingTV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGNHqJtBJtCZlMYfzGe5ptbrYZ6hMKclfUQ&s",Cinemax East 
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Sling TV:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGNHqJtBJtCZlMYfzGe5ptbrYZ6hMKclfUQ&s",Cinemax East 
 http://212.102.60.231/CINEMAX_EAST/manifest.mpd
 
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network East 
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Pirate TV | Sling TV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network East 
 http://fl2.moveonjoy.com/CARTOON_NETWORK/manifest.mpd
 
-#EXTINF:-1 tvg-id="NicktoonsEast.us" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png",NickToons East
+#EXTINF:-1 tvg-id="NicktoonsEast.us" group-title="Pirate TV | Sling TV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png",NickToons East
 http://143.244.60.30/NICKTOONS/manifest.mpd
 
-#EXTINF:-1 tvg-id="NickelodeonEast.us" group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/E84jnP8.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sling_TV_logo.svg/640px-Sling_TV_logo.svg.png",Nickelodeon East (A)
+#EXTINF:-1 tvg-id="NickelodeonEast.us" group-title="Pirate TV | Sling TV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.imgur.com/E84jnP8.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sling_TV_logo.svg/640px-Sling_TV_logo.svg.png",Nickelodeon East (A)
 http://143.244.60.30/NICKELODEON/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Pirate TV | SlingTV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/CBS_Sports_Network_2021.svg",CBS SPORTS NETWORK
+#EXTINF:-1 tvg-id="" group-title="Pirate TV | Sling TV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/CBS_Sports_Network_2021.svg",CBS SPORTS NETWORK
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/manifest.mpd
 
-#EXTINF:-1 group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/kGq0XBy6/images-4.png",Paramount Network East 
+#EXTINF:-1 group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/kGq0XBy6/images-4.png",Paramount Network East 
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/manifest.mpd
 
-#EXTINF:-1 group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/440px-Bravo_2017_logo.svg.png",Bravo TV East
+#EXTINF:-1 group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/440px-Bravo_2017_logo.svg.png",Bravo TV East
 https://fl2.moveonjoy.com/BRAVO/manifest.mpd
 
-#EXTINF:-1 group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/1600px-Freeform_2022.svg.png",Freeform East
+#EXTINF:-1 group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/1600px-Freeform_2022.svg.png",Freeform East
 http://212.102.60.231/FREE_FORM/manifest.mpd
 
-#EXTINF:-1 group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png",E! Television
+#EXTINF:-1 group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png",E! Television
 http://212.102.60.231/E_ENTERTAINMENT_TELEVISION/manifest.mpd
 
-#EXTINF:-1 tvg-id="FXEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX East
+#EXTINF:-1 tvg-id="FXEast.us" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX East
 http://84.17.40.25/FX/manifest.mpd
 
-#EXTINF:-1 tvg-id="LifetimeEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/07/lifetime.png",Lifetime East
+#EXTINF:-1 tvg-id="LifetimeEast.us" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/07/lifetime.png",Lifetime East
 http://rhsbjv7k.tvclub.xyz/iptv/D4UYB5VRQ84H9K/30122/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicEast.us" group-title="Pirate TV | SlingTV:Knowledge" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://account.nationalgeographic.com/media/national-geographic/media/National-Geographic-Logo.png",National Geographic East
+#EXTINF:-1 tvg-id="NationalGeographicEast.us" group-title="Pirate TV | Sling TV:Knowledge" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://account.nationalgeographic.com/media/national-geographic/media/National-Geographic-Logo.png",National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/mono.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicWildEast.us" group-title="Pirate TV | SlingTV:Knowledge" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png",National Geographic Wild East
+#EXTINF:-1 tvg-id="NationalGeographicWildEast.us" group-title="Pirate TV | Sling TV:Knowledge" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png",National Geographic Wild East
 http://fl2.moveonjoy.com/Nat_Geo_Wild/mono.m3u8
 
-#EXTINF:-1 tvg-id="USANetworkEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA Network East 
+#EXTINF:-1 tvg-id="USANetworkEast.us" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA Network East 
 http://extraott.com:900/live/3162523972/3791698850/13612.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
 http://fl1.moveonjoy.com/LOVE_NATURE/manifest.mpd
 
-#EXTINF:-1 tvg-id="SundanceTVEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/sundance-tv.jpg",Sundance TV East
+#EXTINF:-1 tvg-id="SundanceTVEast.us" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/sundance-tv.jpg",Sundance TV East
 http://fl2.moveonjoy.com/SUNDANCE/mono.m3u8
 
-#EXTINF:-1 tvg-id="SyfyEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Syfy_Universal.svg/1200px-Syfy_Universal.svg.png",Syfy East
+#EXTINF:-1 tvg-id="SyfyEast.us" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Syfy_Universal.svg/1200px-Syfy_Universal.svg.png",Syfy East
 http://212.102.60.231/SYFY/manifest.mpd
 
-#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" group-title="Pirate TV | SlingTV:Knowledge" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/07/smithsonian-channel.png",Smithsonian Channel East
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" group-title="Pirate TV | Sling TV:Knowledge" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/07/smithsonian-channel.png",Smithsonian Channel East
 http://212.102.60.231/SMITHSONIAN_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="OxygenEast.us" group-title="Pirate TV | SlingTV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/05/oxygen.png",Oxygen East
+#EXTINF:-1 tvg-id="OxygenEast.us" group-title="Pirate TV | Sling TV:Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/05/oxygen.png",Oxygen East
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
-#EXTINF:-1 tvg-id="WNBCDT1.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png",NBC(WNBC-DT1) New York
+#EXTINF:-1 tvg-id="WNBCDT1.us" group-title="Pirate TV | Sling TV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png",NBC(WNBC-DT1) New York
 http://fl1.moveonjoy.com/NBC_EAST/manifest.mpd
 
-#EXTINF:-1 tvg-id="WNYWDT1.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png", FOX (WNYW-DT1) NEW YORK 
+#EXTINF:-1 tvg-id="WNYWDT1.us" group-title="Pirate TV | Sling TV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png", FOX (WNYW-DT1) NEW YORK 
 http://fl1.moveonjoy.com/FOX_EAST/manifest.mpd
 
-#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70436_h15_ab.png",Me TV (KSAT-DT2) San Antonio,Texas 
+#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | Sling TV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70436_h15_ab.png",Me TV (KSAT-DT2) San Antonio,Texas 
 http://84.17.40.25/ME_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC East
+#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | Sling TV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/manifest.mpd
 
-#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WGN_CW_logo_2024.svg/1828px-WGN_CW_logo_2024.svg.png",THE CW WGN 9 
+#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | Sling TV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WGN_CW_logo_2024.svg/1828px-WGN_CW_logo_2024.svg.png",THE CW WGN 9 
 http://143.244.60.30/WGN/manifest.mpd
 
-#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | SlingTV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://wwwimage-tve.cbsstatic.com/base/files/seo/cbs_seo_1200x627_1.jpg",CBS WSBK (Boston)
+#EXTINF:-1 tvg-id="KSATDT2.us" group-title="Pirate TV | Sling TV:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://wwwimage-tve.cbsstatic.com/base/files/seo/cbs_seo_1200x627_1.jpg",CBS WSBK (Boston)
 http://143.244.60.30/CBSEAST/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Pirate TV | Japanese Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
@@ -3591,33 +3591,33 @@ https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
 #EXTINF:-1 group-title="Pirate TV | Sky Digital TV | Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png",Sky Sports Cricket
 http://Supersonictv.live:8080/live/144264/661943/78148.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-m.png",Sea Today (V+)
+#EXTINF:-1 group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-m.png",Sea Today (V+)
 http://202.147.193.244/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
 
-#EXTINF:-1 group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-m.png",Aljazeera English (V+)
+#EXTINF:-1 group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-m.png",Aljazeera English (V+)
 http://202.147.193.244/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
 
-#EXTINF:-1 group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-m.png",DWTV (V+)
+#EXTINF:-1 group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-m.png",DWTV (V+)
 http://202.147.193.244/live/eds/DW/sa_dash/DW.mpd
 
-#EXTINF:-1 group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-m.png",Euronews (V+)
+#EXTINF:-1 group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-m.png",Euronews (V+)
 http://202.147.193.244/live/eds/EuroNews/sa_dash/EuroNews.mpd
 
-#EXTINF:-1 group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-m.png",Fox News (V+)
+#EXTINF:-1 group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-m.png",Fox News (V+)
 http://202.147.193.244/live/eds/FoxNews/sa_dash/FoxNews.mpd
 
-#EXTINF:-1 group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-m.png",CGTN (V+)
+#EXTINF:-1 group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-m.png",CGTN (V+)
 http://202.147.193.244/live/eds/CGTN/sa_dash/CGTN.mpd
 
-#EXTINF:-1 group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-m.png",NHK World (V+)
+#EXTINF:-1 group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-m.png",NHK World (V+)
 http://202.147.193.244/live/eds/NHKWorldTV/sa_dash/NHKWorldTV.mpd
 
-#EXTINF:-1 group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-m.png",RT English (V+)
+#EXTINF:-1 group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-m.png",RT English (V+)
 http://202.147.193.244/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
 
-#EXTINF:-1 group-title="Pirate TV | VisionPlus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-m.png",TRT World (V+)
+#EXTINF:-1 group-title="Pirate TV | Vision Plus:News" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-m.png",TRT World (V+)
 http://202.147.193.244/live/eds/TRTWorld/sa_dash/TRTWorld.mpd
 
-#EXTINF:-1 group-title="Pirate TV | VisionPlus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans7 (V+)
+#EXTINF:-1 group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans7 (V+)
 http://202.147.193.244/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
