@@ -2361,19 +2361,19 @@ http://luong.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 tvg-id="tokyo_mx" group-title="Pirate TV | Japanese Channel" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | SlingTV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png", ESPN East
+#EXTINF:-1 group-title="Pirate TV | Sling TV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png", ESPN East
 http://41.205.93.154/ESPN/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | SlingTV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",FOX SPORTS 2 
+#EXTINF:-1 group-title="Pirate TV | Sling TV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png",FOX SPORTS 2 
 http://rhsbjv7k.tvclub.xyz/iptv/D4UYB5VRQ84H9K/7323/index.m3u8
 
-#EXTINF:-1 group-title="Pirate TV | SlingTV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FOX SPORTS 1
+#EXTINF:-1 group-title="Pirate TV | Sling TV:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FOX SPORTS 1
 http://212.102.60.10/FOX_Sports_1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" tvg-name="TeenNick" group-title="Pirate TV | SlingTV:Kids" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/StackTV_logo.png/400px-StackTV_logo.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png",TeenNick East
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Tenic.m3u8
 
-#EXTINF:-0 group-title="Pirate TV | SlingTV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang East
+#EXTINF:-0 group-title="Pirate TV | Sling TV:Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang East
 https://raw.githubusercontent.com/Cutsiffa/Kid/refs/heads/main/Boome.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" group-title="Pirate TV | Kids" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://i.postimg.cc/mZ74fPXZ/download-70.png", Disney Junior East 
