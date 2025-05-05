@@ -3647,3 +3647,12 @@ http://starshare.org:8080/live/humair/humair/221.m3u8
 
 #EXTINF:-1 group-title="Pirate TV | Tata Play:Hindi Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435", Sony Entertainment HD (Tataplay Feed)
 http://starshare.org:8080/live/humair/humair/224.m3u8
+
+#EXTINF:- tvg-id="" group-title="Pirate TV | Tata Play:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports 1 HD (Tataplay Feed) (English)
+https://raw.githubusercontent.com/izzathensem/PirateTV-OTTNavigator-/refs/heads/main/StarSports1HDEn.m3u8
+
+#EXTINF:- tvg-id="" group-title="Pirate TV | Tata Play:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215232828",Star Gold HD (Tataplay Feed)
+http://starshare.org:8080/live/humair/humair/98858.m3u8
+
+#EXTINF:- tvg-id="" group-title="Pirate TV | Tata Play:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-movies-hd.gif",Star Movies HD (Tataplay Feed)
+http://starshare.org:8080/live/humair/humair/979.m3u8
