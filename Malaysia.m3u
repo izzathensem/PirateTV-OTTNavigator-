@@ -3621,3 +3621,29 @@ http://202.147.193.244/live/eds/TRTWorld/sa_dash/TRTWorld.mpd
 #EXTINF:-1 group-title="Pirate TV | Vision Plus:Local" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans7 (V+)
 http://202.147.193.244/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
+#EXTINF:-1 group-title="Pirate TV | Tata Play:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-gold-select.gif",Star Gold Selects HD (Tataplay Feed)
+http://starshare.org:8080/live/humair/humair/210.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Tata Play:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Gemini_Movies_HD.jpg/revision/latest?cb=20171230113018",Gemini Movies HD (Tataplay Feed)
+http://starshare.org:8080/live/humair/humair/212.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Tata Play:Music" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg", Gemini Music HD (Tataplay Feed)
+http://starshare.org:8080/live/humair/humair/213.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Tata Play:Sports" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport (Tataplay Feed)
+http://starshare.org:8080/live/humair/humair/216.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Tata Play:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star_movies_select_hd_india.webp",Star Movies Selects HD (Tataplay Feed)
+http://starshare.org:8080/live/humair/humair/218.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Tata Play:Hindi Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png", Colors HD (Tataplay Feed) (Hindi Subs)
+http://starshare.org:8080/live/humair/humair/219.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Tata Play:Hindi Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD (Tataplay Feed) (Hindi Subs)
+http://starshare.org:8080/live/humair/humair/220.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Tata Play:Hindi Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhclm21PA2xj8HEIjvbePB3CR-PTRpLQoCB84dRNVk_IYofZoVU97YSww8m-AETfKtL4vUa7cliYHqjLMVxhZXWhcCwvt13eR0PrftvK0gDymmzunUA3Y7nK8Q6iNkQAIyvxJdYa0hv0t0/w640/star-plus-hd.jpg",Star Plus HD (Tataplay Feed) (Hindi Subs)
+http://starshare.org:8080/live/humair/humair/221.m3u8
+
+#EXTINF:-1 group-title="Pirate TV | Tata Play:Hindi Entertainment" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435", Sony Entertainment HD (Tataplay Feed)
+http://starshare.org:8080/live/humair/humair/224.m3u8
