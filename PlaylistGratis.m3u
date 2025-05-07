@@ -3656,3 +3656,6 @@ http://starshare.org:8080/live/humair/humair/98858.m3u8
 
 #EXTINF:- tvg-id="" group-title="Pirate TV | Tata Play:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-movies-hd.gif",Star Movies HD (Tataplay Feed)
 http://starshare.org:8080/live/humair/humair/979.m3u8
+
+#EXTINF:- tvg-id="" group-title="Pirate TV | Tata Play:Movies" group-logo="https://i.postimg.cc/wj3br44H/Polish-20250222-001637757.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Vijay_Takkar.jpg/revision/latest?cb=20240522234245",Star Vijay Takker
+http://starshare.st/live/42166/42166/23869.m3u8
